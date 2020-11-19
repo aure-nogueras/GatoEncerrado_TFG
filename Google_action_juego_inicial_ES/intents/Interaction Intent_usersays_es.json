@@ -1,0 +1,169 @@
+[
+  {
+    "id": "3c5e0a2b-dba8-43d2-b1e8-5ba2f361aae6",
+    "data": [
+      {
+        "text": "Ver ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fef2a484-dd02-45b8-91f1-d89f919d1dbf",
+    "data": [
+      {
+        "text": "Interaccionar con ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fb24ccc-7e13-431d-a485-83a9a5e0e5d1",
+    "data": [
+      {
+        "text": "Interacciona con ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51f1b422-2d1f-4876-b316-9711332707c8",
+    "data": [
+      {
+        "text": "Inspecciona ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "005965ee-83ae-4b29-9723-5e0cee3be538",
+    "data": [
+      {
+        "text": "Inspeccionar ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ce1afb7-cb9c-4eb2-87fd-8479901c70bd",
+    "data": [
+      {
+        "text": "Examinar ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bde523a-9456-4c49-97d5-05a52af85e1f",
+    "data": [
+      {
+        "text": "Examina ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "915c509a-06a7-42fe-a34f-d3d36d4cd245",
+    "data": [
+      {
+        "text": "Mira",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "285b456a-b3cd-4467-8056-7408398a1b52",
+    "data": [
+      {
+        "text": "Mirar ",
+        "userDefined": false
+      },
+      {
+        "text": "objects",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

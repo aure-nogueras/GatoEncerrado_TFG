@@ -1,0 +1,108 @@
+[
+  {
+    "id": "e044349c-a404-42af-a7c4-8d77cf8e8835",
+    "data": [
+      {
+        "text": "dame ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc3ca145-645e-4f60-a539-11f24455c763",
+    "data": [
+      {
+        "text": "dime ",
+        "userDefined": false
+      },
+      {
+        "text": "una pista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4123cb63-722d-4771-b4fd-9fdd5a3b10b7",
+    "data": [
+      {
+        "text": "dar ",
+        "userDefined": false
+      },
+      {
+        "text": "pista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "591483b7-57df-4e6f-b2d5-0bbc216f751b",
+    "data": [
+      {
+        "text": "decir ",
+        "userDefined": false
+      },
+      {
+        "text": "pista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54ac3b82-038e-486f-8f8e-251159c483ee",
+    "data": [
+      {
+        "text": "puedes darme ",
+        "userDefined": false
+      },
+      {
+        "text": "una pista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d56bfd7-878a-4065-9204-19e7ea4c3886",
+    "data": [
+      {
+        "text": "Pista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

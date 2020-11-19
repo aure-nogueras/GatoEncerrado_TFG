@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e4079d30-63a1-4ca0-aaba-545fccc3cd45",
+    "data": [
+      {
+        "text": "return to the ",
+        "userDefined": false
+      },
+      {
+        "text": "courtyard",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3968ef10-a726-4e08-ac2f-b28b54b89577",
+    "data": [
+      {
+        "text": "move to the ",
+        "userDefined": false
+      },
+      {
+        "text": "washing room",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "716a98d3-ffeb-489b-9182-40a89d37e3d4",
+    "data": [
+      {
+        "text": "go to the ",
+        "userDefined": false
+      },
+      {
+        "text": "corridor",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d82f60b8-c418-4e12-9aa4-96bcafe137dd",
+    "data": [
+      {
+        "text": "go ",
+        "userDefined": false
+      },
+      {
+        "text": "room",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

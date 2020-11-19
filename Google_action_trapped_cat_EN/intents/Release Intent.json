@@ -1,0 +1,43 @@
+{
+  "id": "8d5c61af-f769-421f-8f8f-2328549f28e0",
+  "name": "Release Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d16e67ff-b1b1-4b94-8516-f7ef90ebe008",
+          "required": true,
+          "dataType": "@Objects",
+          "name": "Objects",
+          "value": "$Objects",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What do you want to drop?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

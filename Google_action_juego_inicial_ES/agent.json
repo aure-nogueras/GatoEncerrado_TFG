@@ -1,0 +1,141 @@
+{
+  "description": "",
+  "language": "es",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "2750e63d-56f3-4039-af0c-3a8b47f985eb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "33e4c727-bf5a-46c3-87f6-ad831a9a6450",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7dceecb3-cbb2-415a-ae1d-10e0582c882d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6c794c96-f8a9-4765-99c1-f4ec02687b62",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5b460adb-d661-4938-a135-88e418286bbd",
+        "signInRequired": false
+      },
+      {
+        "intentId": "53771bda-8142-4426-a42f-e791d73c3a91",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3e86811a-7495-469b-a27b-44a95587486e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b8c06def-5ff5-4df1-806a-7384377f7865",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ab2f6e11-1af4-47c4-83d6-440b8a6cadae",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a35124f2-a841-48ca-915c-9f8bed948030",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8d5c61af-f769-421f-8f8f-2328549f28e0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d4c18168-70a8-42b0-86ce-76bf8884b280",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cd35d7c6-e0e6-4c3c-b91c-e43987624aff",
+        "signInRequired": false
+      },
+      {
+        "intentId": "bd6428e4-1e2d-423c-a20a-d2f870361648",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ba2b8115-072d-4db7-bd8b-198987cb4c79",
+        "signInRequired": false
+      },
+      {
+        "intentId": "fff86c9c-39fd-4345-a64e-c029dd79c3fe",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e585e63a-f13f-46e1-969a-3531d0befd28",
+        "signInRequired": false
+      },
+      {
+        "intentId": "fcffb32e-5a31-47da-8574-8ec41b86f75c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2d90cb91-faa7-4a40-b0d3-973efdaaf206",
+        "signInRequired": false
+      },
+      {
+        "intentId": "62007915-a67c-42df-b0dd-11fdd0a02252",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f59993ac-5cb2-4fdd-9356-56a43ecb6e9d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7f261f6a-50df-43ea-a5f6-3560607645f2",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "https://us-central1-juego-inicial.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}

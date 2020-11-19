@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Walt Whitman",
+    "synonyms": [
+      "Walt Whitman",
+      "Whitman"
+    ]
+  },
+  {
+    "value": "Thoreau",
+    "synonyms": [
+      "Thoreau",
+      "Henry David Thoreau"
+    ]
+  },
+  {
+    "value": "Lorca",
+    "synonyms": [
+      "Lorca",
+      "Federico García Lorca"
+    ]
+  },
+  {
+    "value": "Virginia Woolf",
+    "synonyms": [
+      "Virginia Woolf"
+    ]
+  }
+]

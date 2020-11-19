@@ -1,0 +1,151 @@
+[
+  {
+    "id": "17c549b8-4baa-4a5d-b6b1-1fde5ce87e5f",
+    "data": [
+      {
+        "text": "qué tengo en el inventario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16ca08b7-d903-40e3-86de-df6bffb53daf",
+    "data": [
+      {
+        "text": "qué hay en el inventario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01b6f885-5633-4659-8ad1-47141114bca4",
+    "data": [
+      {
+        "text": "qué tengo en la mochila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be4764c2-1489-4ff7-aa66-d659d0d5bb68",
+    "data": [
+      {
+        "text": "dime lo que hay ",
+        "userDefined": false
+      },
+      {
+        "text": "en la mochila",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee11ade0-5e50-41df-9110-4d57815c165c",
+    "data": [
+      {
+        "text": "qué hay en la mochila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "101ed57e-dc38-4ffb-ad46-5ccdf47951c3",
+    "data": [
+      {
+        "text": "dime lo que tengo en la mochila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f14f043-ce96-4875-ae61-cef425349976",
+    "data": [
+      {
+        "text": "qué objetos llevo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c714675-3066-47db-8d09-847be9188501",
+    "data": [
+      {
+        "text": "qué llevo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63325c92-b186-4a0b-8bd1-af619eb398a4",
+    "data": [
+      {
+        "text": "mirar inventario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59ace15a-f4f3-40e6-8578-4824360a9a81",
+    "data": [
+      {
+        "text": "mirar mochila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6da1036-dab7-4b12-afed-00246992cbe5",
+    "data": [
+      {
+        "text": "ver inventario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52676cd5-8d29-41ea-823c-a97564339e33",
+    "data": [
+      {
+        "text": "ver mochila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

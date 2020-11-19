@@ -1,0 +1,43 @@
+{
+  "id": "a35124f2-a841-48ca-915c-9f8bed948030",
+  "name": "Help Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ceb0ff7d-cd90-4351-af10-992c44aefaf9",
+          "required": true,
+          "dataType": "@HelpType",
+          "name": "HelpType",
+          "value": "$HelpType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want the long or the short help?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

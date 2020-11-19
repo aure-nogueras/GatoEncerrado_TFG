@@ -1,0 +1,74 @@
+[
+  {
+    "id": "525fdab4-77f8-4187-9833-83f55200725e",
+    "data": [
+      {
+        "text": "coger ",
+        "userDefined": false
+      },
+      {
+        "text": "patata",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2029a064-6aff-408f-9b62-f1429a0924f9",
+    "data": [
+      {
+        "text": "coge ",
+        "userDefined": false
+      },
+      {
+        "text": "gallina",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8f238c2-b414-41d2-8347-1049a8ba9bfa",
+    "data": [
+      {
+        "text": "guarda ",
+        "userDefined": false
+      },
+      {
+        "text": "farola",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "161b5e16-7502-4d20-bcbe-cdd35f6c6cf4",
+    "data": [
+      {
+        "text": "guardar ",
+        "userDefined": false
+      },
+      {
+        "text": "mueble",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

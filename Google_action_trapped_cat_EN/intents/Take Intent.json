@@ -1,0 +1,43 @@
+{
+  "id": "ba2b8115-072d-4db7-bd8b-198987cb4c79",
+  "name": "Take Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b4a72bb1-847c-4939-b9df-cd463574ab22",
+          "required": true,
+          "dataType": "@Objects",
+          "name": "Objects",
+          "value": "$Objects",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What do you want to take?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

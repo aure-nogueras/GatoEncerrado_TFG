@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e163c6af-26fa-42cd-ae34-a2249cffd78f",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "key",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "514fae94-8ee9-4f27-b88f-2ed5bcdbcf18",
+    "data": [
+      {
+        "text": "examine ",
+        "userDefined": false
+      },
+      {
+        "text": "flashlight",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cea7059c-a05c-422a-8d5b-ac92b28b67af",
+    "data": [
+      {
+        "text": "Interact with ",
+        "userDefined": false
+      },
+      {
+        "text": "hammer",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75d882a9-0b6f-47b2-b165-0603464cde2d",
+    "data": [
+      {
+        "text": "Inspect ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

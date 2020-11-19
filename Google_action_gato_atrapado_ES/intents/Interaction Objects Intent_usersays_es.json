@@ -1,0 +1,169 @@
+[
+  {
+    "id": "c990940c-82fc-4ac1-9baf-5902b9852ac0",
+    "data": [
+      {
+        "text": "examinar ",
+        "userDefined": false
+      },
+      {
+        "text": "martillo",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a7c466f-961f-400f-b121-fbd702e19600",
+    "data": [
+      {
+        "text": "examina ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5d9195-3592-4c38-9011-3d2c46948244",
+    "data": [
+      {
+        "text": "mira",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3725e476-a184-489c-9a55-61ea3cf76280",
+    "data": [
+      {
+        "text": "mirar ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e159ca4-8186-4b2b-9d98-0d8afe884020",
+    "data": [
+      {
+        "text": "inspeccionar ",
+        "userDefined": false
+      },
+      {
+        "text": "radiografía",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "161b2c43-c7a5-493c-a6e7-dcbdf17ada8e",
+    "data": [
+      {
+        "text": "inspecciona ",
+        "userDefined": false
+      },
+      {
+        "text": "tarjeta",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ddb4cf8-ead4-4156-b445-1d547c309542",
+    "data": [
+      {
+        "text": "interacciona con ",
+        "userDefined": false
+      },
+      {
+        "text": "llave",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9ddf34a-91fd-4540-b21b-feb9aaaa7d5d",
+    "data": [
+      {
+        "text": "interaccionar con ",
+        "userDefined": false
+      },
+      {
+        "text": "linterna",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffb0cfeb-4d3e-44b5-bf7c-304d80ac558c",
+    "data": [
+      {
+        "text": "ver ",
+        "userDefined": false
+      },
+      {
+        "text": "martillo",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

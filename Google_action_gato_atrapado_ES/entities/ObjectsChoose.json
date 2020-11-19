@@ -1,0 +1,9 @@
+{
+  "id": "c15b9719-d53e-4276-8f3b-9ae884150c1b",
+  "name": "ObjectsChoose",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

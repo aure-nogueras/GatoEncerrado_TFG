@@ -1,0 +1,76 @@
+[
+  {
+    "value": "ventana",
+    "synonyms": [
+      "ventana"
+    ]
+  },
+  {
+    "value": "cuadro",
+    "synonyms": [
+      "cuadro"
+    ]
+  },
+  {
+    "value": "interruptor",
+    "synonyms": [
+      "interruptor"
+    ]
+  },
+  {
+    "value": "lámpara",
+    "synonyms": [
+      "lámpara"
+    ]
+  },
+  {
+    "value": "trampilla",
+    "synonyms": [
+      "trampilla"
+    ]
+  },
+  {
+    "value": "puerta",
+    "synonyms": [
+      "puerta"
+    ]
+  },
+  {
+    "value": "estantería",
+    "synonyms": [
+      "estantería",
+      "estantes"
+    ]
+  },
+  {
+    "value": "armario",
+    "synonyms": [
+      "armario"
+    ]
+  },
+  {
+    "value": "almohada",
+    "synonyms": [
+      "almohada"
+    ]
+  },
+  {
+    "value": "cama",
+    "synonyms": [
+      "cama"
+    ]
+  },
+  {
+    "value": "cajón",
+    "synonyms": [
+      "cajón"
+    ]
+  },
+  {
+    "value": "escritorio",
+    "synonyms": [
+      "escritorio",
+      "mesa"
+    ]
+  }
+]

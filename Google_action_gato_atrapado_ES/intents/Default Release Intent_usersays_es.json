@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4f38485b-e3fb-48b7-aad8-1977325353d7",
+    "data": [
+      {
+        "text": "soltar ",
+        "userDefined": false
+      },
+      {
+        "text": "cojín",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13711c21-66b9-465f-b39c-8a6c2b46a86d",
+    "data": [
+      {
+        "text": "suelta ",
+        "userDefined": false
+      },
+      {
+        "text": "gallina",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

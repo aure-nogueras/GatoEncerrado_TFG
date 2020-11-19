@@ -1,0 +1,293 @@
+[
+  {
+    "value": "latch",
+    "synonyms": [
+      "latch"
+    ]
+  },
+  {
+    "value": "shelf",
+    "synonyms": [
+      "shelf"
+    ]
+  },
+  {
+    "value": "wall",
+    "synonyms": [
+      "wall"
+    ]
+  },
+  {
+    "value": "stoves",
+    "synonyms": [
+      "stoves",
+      "stove"
+    ]
+  },
+  {
+    "value": "fridge",
+    "synonyms": [
+      "fridge",
+      "refrigerator"
+    ]
+  },
+  {
+    "value": "worktop",
+    "synonyms": [
+      "worktop"
+    ]
+  },
+  {
+    "value": "carpet",
+    "synonyms": [
+      "carpet"
+    ]
+  },
+  {
+    "value": "cat scratcher",
+    "synonyms": [
+      "cat scratcher",
+      "scratcher"
+    ]
+  },
+  {
+    "value": "fishbowl",
+    "synonyms": [
+      "fishbowl"
+    ]
+  },
+  {
+    "value": "corpse",
+    "synonyms": [
+      "corpse",
+      "cat corpse"
+    ]
+  },
+  {
+    "value": "bookshelf",
+    "synonyms": [
+      "bookshelf"
+    ]
+  },
+  {
+    "value": "board game",
+    "synonyms": [
+      "board game",
+      "game"
+    ]
+  },
+  {
+    "value": "car",
+    "synonyms": [
+      "car"
+    ]
+  },
+  {
+    "value": "sandbox",
+    "synonyms": [
+      "sandbox"
+    ]
+  },
+  {
+    "value": "ventilation duct",
+    "synonyms": [
+      "ventilation duct"
+    ]
+  },
+  {
+    "value": "lockbox",
+    "synonyms": [
+      "lockbox",
+      "safe"
+    ]
+  },
+  {
+    "value": "television",
+    "synonyms": [
+      "television",
+      "tv"
+    ]
+  },
+  {
+    "value": "stairs",
+    "synonyms": [
+      "stairs"
+    ]
+  },
+  {
+    "value": "tray",
+    "synonyms": [
+      "tray",
+      "cookies tray"
+    ]
+  },
+  {
+    "value": "hole",
+    "synonyms": [
+      "hole",
+      "hole in the wall"
+    ]
+  },
+  {
+    "value": "table",
+    "synonyms": [
+      "table"
+    ]
+  },
+  {
+    "value": "footprints",
+    "synonyms": [
+      "footprints",
+      "tracks"
+    ]
+  },
+  {
+    "value": "spider",
+    "synonyms": [
+      "spider"
+    ]
+  },
+  {
+    "value": "toilet",
+    "synonyms": [
+      "toilet",
+      "wc",
+      "WC"
+    ]
+  },
+  {
+    "value": "first-aid kit",
+    "synonyms": [
+      "first-aid kit"
+    ]
+  },
+  {
+    "value": "window",
+    "synonyms": [
+      "window"
+    ]
+  },
+  {
+    "value": "mirror",
+    "synonyms": [
+      "mirror"
+    ]
+  },
+  {
+    "value": "sink",
+    "synonyms": [
+      "sink"
+    ]
+  },
+  {
+    "value": "skylight",
+    "synonyms": [
+      "skylight"
+    ]
+  },
+  {
+    "value": "dryer",
+    "synonyms": [
+      "dryer"
+    ]
+  },
+  {
+    "value": "washing machine",
+    "synonyms": [
+      "washing machine"
+    ]
+  },
+  {
+    "value": "telephone",
+    "synonyms": [
+      "telephone"
+    ]
+  },
+  {
+    "value": "door with latch",
+    "synonyms": [
+      "door with latch",
+      "right door"
+    ]
+  },
+  {
+    "value": "glass door",
+    "synonyms": [
+      "glass door",
+      "left door"
+    ]
+  },
+  {
+    "value": "padlock",
+    "synonyms": [
+      "padlock"
+    ]
+  },
+  {
+    "value": "painting",
+    "synonyms": [
+      "painting"
+    ]
+  },
+  {
+    "value": "switch",
+    "synonyms": [
+      "switch"
+    ]
+  },
+  {
+    "value": "lamp",
+    "synonyms": [
+      "lamp"
+    ]
+  },
+  {
+    "value": "trapdoor",
+    "synonyms": [
+      "trapdoor"
+    ]
+  },
+  {
+    "value": "door",
+    "synonyms": [
+      "door"
+    ]
+  },
+  {
+    "value": "shelves",
+    "synonyms": [
+      "shelves"
+    ]
+  },
+  {
+    "value": "closet",
+    "synonyms": [
+      "closet"
+    ]
+  },
+  {
+    "value": "pillow",
+    "synonyms": [
+      "pillow"
+    ]
+  },
+  {
+    "value": "bed",
+    "synonyms": [
+      "bed"
+    ]
+  },
+  {
+    "value": "drawer",
+    "synonyms": [
+      "drawer",
+      "drawers"
+    ]
+  },
+  {
+    "value": "desk",
+    "synonyms": [
+      "desk"
+    ]
+  }
+]

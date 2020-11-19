@@ -1,0 +1,46 @@
+[
+  {
+    "value": "arriba",
+    "synonyms": [
+      "arriba",
+      "techo"
+    ]
+  },
+  {
+    "value": "abajo",
+    "synonyms": [
+      "abajo",
+      "suelo"
+    ]
+  },
+  {
+    "value": "oeste",
+    "synonyms": [
+      "oeste",
+      "izquierda"
+    ]
+  },
+  {
+    "value": "este",
+    "synonyms": [
+      "derecha",
+      "este"
+    ]
+  },
+  {
+    "value": "norte",
+    "synonyms": [
+      "norte",
+      "delante",
+      "adelante"
+    ]
+  },
+  {
+    "value": "sur",
+    "synonyms": [
+      "sur",
+      "atrás",
+      "detrás"
+    ]
+  }
+]

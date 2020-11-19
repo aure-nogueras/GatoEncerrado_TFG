@@ -1,0 +1,123 @@
+[
+  {
+    "id": "3c172bec-b464-4540-8cfe-afe5f392a58a",
+    "data": [
+      {
+        "text": "guardar ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24ad01ea-aefb-493c-96bc-82cccb1df6c9",
+    "data": [
+      {
+        "text": "guarda ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61881418-f2dd-4746-ab41-9f5f44952493",
+    "data": [
+      {
+        "text": "guarda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52e6a642-c33a-4e54-bd0b-e542af02fa2e",
+    "data": [
+      {
+        "text": "guardar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "087257e3-bfce-4457-a62d-76c0c46531bb",
+    "data": [
+      {
+        "text": "coge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed06cd1c-241c-4a70-9c0f-6ed4436a9a0d",
+    "data": [
+      {
+        "text": "coger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "672b5afb-b862-4d06-9b8b-c8f797ff8182",
+    "data": [
+      {
+        "text": "Coger ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "079859e0-1754-4327-8d24-ef3fcae2736a",
+    "data": [
+      {
+        "text": "Coge ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

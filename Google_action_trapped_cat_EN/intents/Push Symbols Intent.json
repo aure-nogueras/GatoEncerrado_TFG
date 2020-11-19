@@ -1,0 +1,37 @@
+{
+  "id": "fff86c9c-39fd-4345-a64e-c029dd79c3fe",
+  "name": "Push Symbols Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "723ac6a5-5ea7-4a7d-a611-7609490a6432",
+          "required": false,
+          "dataType": "@Symbol",
+          "name": "Symbol",
+          "value": "$Symbol",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

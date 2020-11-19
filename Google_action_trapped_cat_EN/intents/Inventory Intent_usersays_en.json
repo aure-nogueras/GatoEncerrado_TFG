@@ -1,0 +1,74 @@
+[
+  {
+    "id": "21020f14-759f-4790-bfa7-2cd3f38caa32",
+    "data": [
+      {
+        "text": "what objects do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6dcfb70-5443-4007-a755-05dfa324bc5c",
+    "data": [
+      {
+        "text": "what is in my inventory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c8d091-d9a3-463f-9907-6816ec391483",
+    "data": [
+      {
+        "text": "inventory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "507e576b-5184-4e27-bc16-d24cc57919b7",
+    "data": [
+      {
+        "text": "bag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5f8723e-7c37-48f7-9a88-21c2081d07f0",
+    "data": [
+      {
+        "text": "schoolbag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26977b74-d6c3-4b96-adff-4e11a2529b1f",
+    "data": [
+      {
+        "text": "see the inventory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

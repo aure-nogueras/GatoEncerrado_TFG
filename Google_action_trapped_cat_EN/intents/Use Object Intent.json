@@ -1,0 +1,37 @@
+{
+  "id": "cd35d7c6-e0e6-4c3c-b91c-e43987624aff",
+  "name": "Use Object Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d6a3158b-f896-4744-9e01-1150f739cb10",
+          "required": false,
+          "dataType": "@Objects",
+          "name": "Objects",
+          "value": "$Objects",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

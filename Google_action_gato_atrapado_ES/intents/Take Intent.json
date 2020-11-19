@@ -1,0 +1,54 @@
+{
+  "id": "ba2b8115-072d-4db7-bd8b-198987cb4c79",
+  "name": "Take Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "117e32c7-4e1e-47e7-94bf-2991d8220628",
+          "required": true,
+          "dataType": "@Objects",
+          "name": "Objects",
+          "value": "$Objects",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Coger qué?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Qué quieres coger?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

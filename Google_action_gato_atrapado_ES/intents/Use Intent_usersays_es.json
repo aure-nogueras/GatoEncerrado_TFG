@@ -1,0 +1,236 @@
+[
+  {
+    "id": "139d76d4-0ba8-4358-a020-fdba6304c668",
+    "data": [
+      {
+        "text": "Usa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "element",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f99e04db-7e02-472e-a7c7-7fb25019098b",
+    "data": [
+      {
+        "text": "Usar ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "element",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c29bba1b-321f-40ac-b707-124311c93da4",
+    "data": [
+      {
+        "text": "Utilizar ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "element",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9290a54e-8eed-4a64-a6e5-d3076793721b",
+    "data": [
+      {
+        "text": "Utiliza ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "element",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f66c56fb-c3a3-4e8e-b76a-d1b92696a84c",
+    "data": [
+      {
+        "text": "Utiliza ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "element",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e593515-7b50-49b6-9918-49ef2103a7e8",
+    "data": [
+      {
+        "text": "Usa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "element",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb87ad91-e7a7-49ea-a2f4-73e4fc0825a5",
+    "data": [
+      {
+        "text": "Usar ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "element",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f86874a6-d5ba-484f-b75c-a038f88e5053",
+    "data": [
+      {
+        "text": "Utilizar ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "element",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

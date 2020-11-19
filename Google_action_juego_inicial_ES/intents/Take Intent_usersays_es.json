@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2f5d3f7f-cc72-4851-9d5d-e02aaec97660",
+    "data": [
+      {
+        "text": "Coger ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "603c34a9-2ca8-4468-918e-dc10f81dd04b",
+    "data": [
+      {
+        "text": "Coge ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

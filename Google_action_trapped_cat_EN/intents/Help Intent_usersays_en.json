@@ -1,0 +1,78 @@
+[
+  {
+    "id": "9b6e1b86-161b-4f8c-a726-384e021d8046",
+    "data": [
+      {
+        "text": "long help",
+        "alias": "HelpType",
+        "meta": "@HelpType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "38a057a1-8121-4f05-939b-b4e65eac449b",
+    "data": [
+      {
+        "text": "short help",
+        "alias": "HelpType",
+        "meta": "@HelpType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4cf9e42-fa5b-415c-8c9d-508e542a54dc",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb6fc321-2a01-4ca8-b5db-abcf5ed0ab74",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8f1fc40-f617-4b76-9593-799dc8a80aae",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df0ef97b-75f6-4bc3-b6a0-2211c1c004dc",
+    "data": [
+      {
+        "text": "can you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

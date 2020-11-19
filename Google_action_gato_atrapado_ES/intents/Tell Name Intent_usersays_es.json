@@ -1,0 +1,73 @@
+[
+  {
+    "id": "04cda050-5f69-43bb-abed-e5d9b907eaef",
+    "data": [
+      {
+        "text": "cuál es ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80ab6297-555e-4815-9f61-9107d3fe9eff",
+    "data": [
+      {
+        "text": "cómo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me llamo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56428185-2ecf-4581-937c-45e221b2c6ba",
+    "data": [
+      {
+        "text": "dime ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9fe4dd5-591e-48aa-9f8c-cd3484928df5",
+    "data": [
+      {
+        "text": "quién soy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

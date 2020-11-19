@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e0ead73d-e5c4-4c9b-bf1d-2f1af5f85585",
+    "data": [
+      {
+        "text": "Interact with ",
+        "userDefined": false
+      },
+      {
+        "text": "window",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db76d724-d9dd-4540-83d2-e36f3e1777e8",
+    "data": [
+      {
+        "text": "Inspect ",
+        "userDefined": false
+      },
+      {
+        "text": "television",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c60b2d31-1232-43a7-ae37-5d8fa9788e85",
+    "data": [
+      {
+        "text": "Examine ",
+        "userDefined": false
+      },
+      {
+        "text": "wall",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c302d2a-6e08-4608-8679-1557f10684cf",
+    "data": [
+      {
+        "text": "Look ",
+        "userDefined": false
+      },
+      {
+        "text": "table",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

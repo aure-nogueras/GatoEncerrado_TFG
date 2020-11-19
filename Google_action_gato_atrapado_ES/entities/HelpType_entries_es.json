@@ -1,0 +1,18 @@
+[
+  {
+    "value": "larga",
+    "synonyms": [
+      "larga",
+      "ayuda larga",
+      "largo"
+    ]
+  },
+  {
+    "value": "corta",
+    "synonyms": [
+      "corta",
+      "ayuda corta",
+      "corto"
+    ]
+  }
+]

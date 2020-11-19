@@ -1,0 +1,33 @@
+[
+  {
+    "value": "silla",
+    "synonyms": [
+      "silla"
+    ]
+  },
+  {
+    "value": "llave",
+    "synonyms": [
+      "llave"
+    ]
+  },
+  {
+    "value": "comida de gato",
+    "synonyms": [
+      "comida de gato",
+      "comida"
+    ]
+  },
+  {
+    "value": "linterna",
+    "synonyms": [
+      "linterna"
+    ]
+  },
+  {
+    "value": "martillo",
+    "synonyms": [
+      "martillo"
+    ]
+  }
+]

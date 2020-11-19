@@ -1,0 +1,110 @@
+[
+  {
+    "id": "671b1f45-c57a-4964-b3a1-bb775251742e",
+    "data": [
+      {
+        "text": "dónde estoy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8872075f-4a0a-4740-a211-87cc6a909ac3",
+    "data": [
+      {
+        "text": "dónde me encuentro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9945cbb-cd04-46de-bc46-86e2c6d948fa",
+    "data": [
+      {
+        "text": "en qué ",
+        "userDefined": false
+      },
+      {
+        "text": "habitación",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " estoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76723bc9-8831-485f-ad1f-4a210765bfa3",
+    "data": [
+      {
+        "text": "en qué lugar estoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a8e1b23-4cc5-4b90-8ae6-15c261ceca9e",
+    "data": [
+      {
+        "text": "en qué lugar me encuentro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73bbe865-1bf4-47ad-9d76-11073c149fd8",
+    "data": [
+      {
+        "text": "qué sitio ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " este",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "190859ae-5701-4cf5-ab73-591869497cc1",
+    "data": [
+      {
+        "text": "qué ",
+        "userDefined": false
+      },
+      {
+        "text": "es este lugar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

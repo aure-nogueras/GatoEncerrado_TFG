@@ -1,0 +1,62 @@
+[
+  {
+    "id": "81443fa7-b723-4e2e-a647-580fc36f5266",
+    "data": [
+      {
+        "text": "Soltar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0b7a722e-f76b-4a9c-a290-4d11650ad47e",
+    "data": [
+      {
+        "text": "Suelta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dbb2410-2091-4394-8292-ccf96145d7fa",
+    "data": [
+      {
+        "text": "Soltar ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c1949fe-43dd-4ed5-ba72-1e8a0f540421",
+    "data": [
+      {
+        "text": "Suelta ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

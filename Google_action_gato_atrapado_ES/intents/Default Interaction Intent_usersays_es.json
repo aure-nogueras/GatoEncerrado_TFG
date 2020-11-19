@@ -1,0 +1,169 @@
+[
+  {
+    "id": "2cc79251-d83b-47c3-9cb3-7cbf9d7af47a",
+    "data": [
+      {
+        "text": "Ver ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc67a4d8-07da-4ba4-adbd-62da20cd9181",
+    "data": [
+      {
+        "text": "Mira",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9a76cd5-a26f-40da-adb5-4aeb34df2f98",
+    "data": [
+      {
+        "text": "Mirar ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "468972ba-d437-4f47-b51e-ace6e0969212",
+    "data": [
+      {
+        "text": "Interacciona con ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e464620-dfa7-4c47-9792-8eb05f9bfda4",
+    "data": [
+      {
+        "text": "Interaccionar con ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e9db180-f0a0-46de-b0b4-ee488e226c8a",
+    "data": [
+      {
+        "text": "Inspeccionar ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9edbaf99-9355-4559-8b91-b84b4a6bff87",
+    "data": [
+      {
+        "text": "Inspecciona ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b60d3524-2656-4dfd-b3d5-81a5e55b965b",
+    "data": [
+      {
+        "text": "Examina ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb649771-dc47-4380-b46a-6b693ee1227e",
+    "data": [
+      {
+        "text": "Examinar ",
+        "userDefined": false
+      },
+      {
+        "text": "query",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

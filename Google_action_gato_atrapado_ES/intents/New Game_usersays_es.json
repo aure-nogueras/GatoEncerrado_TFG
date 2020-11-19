@@ -1,0 +1,99 @@
+[
+  {
+    "id": "6362599c-3bb2-4599-aa65-5883021e78cf",
+    "data": [
+      {
+        "text": "empezar juego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08a68663-b1e7-4a6c-8912-c884ed894f0e",
+    "data": [
+      {
+        "text": "comenzar juego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02fb9a3a-353a-4956-8e82-52d5db8e3392",
+    "data": [
+      {
+        "text": "nuevo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c60df654-7ba9-4c77-a769-faddf1e4738d",
+    "data": [
+      {
+        "text": "reiniciar juego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cc2e501-e6ae-4c05-92e9-87001da49065",
+    "data": [
+      {
+        "text": "comenzar nuevo juego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed8ffda5-42fc-40be-b9ce-11c59115bacf",
+    "data": [
+      {
+        "text": "empezar nuevo juego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfbceec6-8afb-44cb-9010-9115803ba851",
+    "data": [
+      {
+        "text": "reiniciar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bab3a38-2123-45bb-884c-c64a60b70cff",
+    "data": [
+      {
+        "text": "nuevo juego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

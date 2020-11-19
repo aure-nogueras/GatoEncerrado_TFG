@@ -1,0 +1,64 @@
+[
+  {
+    "id": "d038c7ef-667e-4f38-8312-7bc6ae6b6c70",
+    "data": [
+      {
+        "text": "seguir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f88a2dfe-a706-4e5c-a6b6-e0b5f6b7eb13",
+    "data": [
+      {
+        "text": "continuar ",
+        "userDefined": false
+      },
+      {
+        "text": "juego",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3e13708-36d0-4070-b009-8e03cf098704",
+    "data": [
+      {
+        "text": "continuar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40bbf56e-347c-4654-8692-71672fc00910",
+    "data": [
+      {
+        "text": "continuar ",
+        "userDefined": false
+      },
+      {
+        "text": "partida",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anterior",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

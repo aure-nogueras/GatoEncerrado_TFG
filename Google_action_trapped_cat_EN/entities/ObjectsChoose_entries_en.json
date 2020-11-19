@@ -1,0 +1,36 @@
+[
+  {
+    "value": "poison",
+    "synonyms": [
+      "poison",
+      "bottle of poison"
+    ]
+  },
+  {
+    "value": "toy mouse",
+    "synonyms": [
+      "toy mouse",
+      "mouse",
+      "rat"
+    ]
+  },
+  {
+    "value": "bowl",
+    "synonyms": [
+      "bowl"
+    ]
+  },
+  {
+    "value": "ball of wool",
+    "synonyms": [
+      "ball of wool",
+      "wool"
+    ]
+  },
+  {
+    "value": "cat food",
+    "synonyms": [
+      "cat food"
+    ]
+  }
+]

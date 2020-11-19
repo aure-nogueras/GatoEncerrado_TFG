@@ -1,0 +1,42 @@
+{
+  "id": "8596fcd7-1a39-4156-95bc-a1fe3a57fb2e",
+  "parentId": "2750e63d-56f3-4039-af0c-3a8b47f985eb",
+  "rootParentId": "2750e63d-56f3-4039-af0c-3a8b47f985eb",
+  "name": "New Game - custom",
+  "auto": true,
+  "contexts": [
+    "NewGame-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NewGame.NewGame-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87fb3431-c433-401b-873e-bc9ba42dacbc",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

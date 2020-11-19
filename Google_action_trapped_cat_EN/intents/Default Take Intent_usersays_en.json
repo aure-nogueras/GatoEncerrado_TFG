@@ -1,0 +1,56 @@
+[
+  {
+    "id": "009a6abb-5939-48ec-b59a-03a96ec8b2e8",
+    "data": [
+      {
+        "text": "pick ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b4ae5d88-c06f-4eee-aa60-50b7af7cf0bb",
+    "data": [
+      {
+        "text": "take ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5eb2462-6341-46b9-bd17-32a91e691cda",
+    "data": [
+      {
+        "text": "save ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

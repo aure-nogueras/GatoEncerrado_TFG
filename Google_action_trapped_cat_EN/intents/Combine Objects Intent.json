@@ -1,0 +1,37 @@
+{
+  "id": "fcffb32e-5a31-47da-8574-8ec41b86f75c",
+  "name": "Combine Objects Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56cc102a-0a0e-4b4d-939c-8ed83e1bc920",
+          "required": false,
+          "dataType": "@Objects",
+          "name": "Objects",
+          "value": "$Objects",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

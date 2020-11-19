@@ -1,0 +1,114 @@
+[
+  {
+    "id": "0e9f5371-14ef-4fea-93f0-4be6492cb602",
+    "data": [
+      {
+        "text": "Use ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "flashlight",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30e72a4c-0379-4bd2-9782-a7caae48202d",
+    "data": [
+      {
+        "text": "Combine ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "flashlight",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "497662a8-7fd4-43dc-a31b-6a77a1607056",
+    "data": [
+      {
+        "text": "Use ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "flashlight",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "235b082a-ed62-4ef1-a00f-73e8e2134f8f",
+    "data": [
+      {
+        "text": "Combine ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "flashlight",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

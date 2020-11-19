@@ -1,0 +1,9 @@
+{
+  "id": "439ba4ef-1c6b-45b4-829c-e07dd76f11c6",
+  "name": "Orientation",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

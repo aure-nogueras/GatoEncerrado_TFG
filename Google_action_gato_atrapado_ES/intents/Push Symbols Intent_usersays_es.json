@@ -1,0 +1,98 @@
+[
+  {
+    "id": "019fbf12-28f1-4529-a17d-8b911c122db6",
+    "data": [
+      {
+        "text": "Pulsar ",
+        "userDefined": false
+      },
+      {
+        "text": "aire",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fuego",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tierra",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "agua",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c443c251-03ee-4314-b4d9-e8e27e63d744",
+    "data": [
+      {
+        "text": "Pulsa ",
+        "userDefined": false
+      },
+      {
+        "text": "tierra",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "agua",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aire",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fuego",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

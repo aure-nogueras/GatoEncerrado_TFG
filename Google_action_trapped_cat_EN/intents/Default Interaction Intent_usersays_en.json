@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8bbcb3c6-ef54-4259-86e9-d7fea897ed2b",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "any",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0538573d-c531-4ac9-8aa9-a21bf1e3b585",
+    "data": [
+      {
+        "text": "look ",
+        "userDefined": false
+      },
+      {
+        "text": "gallina",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c5bbc1c-872d-4458-b9d7-cee16f87baec",
+    "data": [
+      {
+        "text": "Interact with ",
+        "userDefined": false
+      },
+      {
+        "text": "glass",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf672de8-098c-4d17-923b-6c02f28ca7cc",
+    "data": [
+      {
+        "text": "Examine ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

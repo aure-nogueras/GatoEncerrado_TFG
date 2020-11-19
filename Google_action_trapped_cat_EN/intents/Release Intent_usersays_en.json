@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a778e7dd-37ac-4628-835d-5d807ae3d610",
+    "data": [
+      {
+        "text": "release",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffc0b673-3756-4540-bfb1-9c17eec9db0c",
+    "data": [
+      {
+        "text": "drop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68273a2c-a62e-4366-b5de-703928ccacdc",
+    "data": [
+      {
+        "text": "Release ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afaa73f2-1f4d-4f9c-9c9d-2d544ae0a041",
+    "data": [
+      {
+        "text": "Drop ",
+        "userDefined": false
+      },
+      {
+        "text": "flashlight",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

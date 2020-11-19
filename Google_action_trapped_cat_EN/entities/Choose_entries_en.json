@@ -1,0 +1,44 @@
+[
+  {
+    "value": "spill",
+    "synonyms": [
+      "spill",
+      "spill it"
+    ]
+  },
+  {
+    "value": "drink",
+    "synonyms": [
+      "drink",
+      "drink it"
+    ]
+  },
+  {
+    "value": "throw",
+    "synonyms": [
+      "throw",
+      "throw it"
+    ]
+  },
+  {
+    "value": "squeeze",
+    "synonyms": [
+      "squeeze",
+      "squeeze it"
+    ]
+  },
+  {
+    "value": "play",
+    "synonyms": [
+      "play",
+      "play it"
+    ]
+  },
+  {
+    "value": "eat",
+    "synonyms": [
+      "eat",
+      "eat it"
+    ]
+  }
+]

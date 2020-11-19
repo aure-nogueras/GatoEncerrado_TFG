@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b9e53eec-571a-4c2f-9c16-09393cb21ce2",
+    "data": [
+      {
+        "text": "drop ",
+        "userDefined": false
+      },
+      {
+        "text": "sofa",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8232af14-9d09-4d1d-aa42-c87fc23f9588",
+    "data": [
+      {
+        "text": "release ",
+        "userDefined": false
+      },
+      {
+        "text": "sofa",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

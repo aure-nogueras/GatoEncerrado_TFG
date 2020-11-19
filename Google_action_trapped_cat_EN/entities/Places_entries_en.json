@@ -1,0 +1,67 @@
+[
+  {
+    "value": "hall",
+    "synonyms": [
+      "hall"
+    ]
+  },
+  {
+    "value": "secret room",
+    "synonyms": [
+      "secret room"
+    ]
+  },
+  {
+    "value": "kitchen",
+    "synonyms": [
+      "kitchen"
+    ]
+  },
+  {
+    "value": "basement",
+    "synonyms": [
+      "basement",
+      "garage",
+      "parking"
+    ]
+  },
+  {
+    "value": "living room",
+    "synonyms": [
+      "living room"
+    ]
+  },
+  {
+    "value": "courtyard",
+    "synonyms": [
+      "courtyard",
+      "yard"
+    ]
+  },
+  {
+    "value": "bathroom",
+    "synonyms": [
+      "bathroom",
+      "toilet"
+    ]
+  },
+  {
+    "value": "washing room",
+    "synonyms": [
+      "washing room"
+    ]
+  },
+  {
+    "value": "corridor",
+    "synonyms": [
+      "corridor"
+    ]
+  },
+  {
+    "value": "bedroom",
+    "synonyms": [
+      "bedroom",
+      "room"
+    ]
+  }
+]

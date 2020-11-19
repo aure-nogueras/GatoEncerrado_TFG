@@ -1,0 +1,31 @@
+[
+  {
+    "value": "comida de gato",
+    "synonyms": [
+      "comida de gato",
+      "comida"
+    ]
+  },
+  {
+    "value": "cuenco",
+    "synonyms": [
+      "cuenco"
+    ]
+  },
+  {
+    "value": "ovillo de lana",
+    "synonyms": [
+      "ovillo de lana",
+      "ovillo",
+      "lana"
+    ]
+  },
+  {
+    "value": "ratón de juguete",
+    "synonyms": [
+      "ratón de juguete",
+      "ratón",
+      "rata"
+    ]
+  }
+]

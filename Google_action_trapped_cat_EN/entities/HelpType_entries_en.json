@@ -1,0 +1,16 @@
+[
+  {
+    "value": "short",
+    "synonyms": [
+      "short",
+      "short help"
+    ]
+  },
+  {
+    "value": "long",
+    "synonyms": [
+      "long",
+      "long help"
+    ]
+  }
+]

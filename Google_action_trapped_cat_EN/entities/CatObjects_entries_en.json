@@ -1,0 +1,30 @@
+[
+  {
+    "value": "cat food",
+    "synonyms": [
+      "cat food",
+      "food"
+    ]
+  },
+  {
+    "value": "toy mouse",
+    "synonyms": [
+      "toy mouse",
+      "mouse",
+      "rat"
+    ]
+  },
+  {
+    "value": "ball of wool",
+    "synonyms": [
+      "ball of wool",
+      "wool"
+    ]
+  },
+  {
+    "value": "bowl",
+    "synonyms": [
+      "bowl"
+    ]
+  }
+]

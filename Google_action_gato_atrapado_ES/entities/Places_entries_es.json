@@ -1,0 +1,74 @@
+[
+  {
+    "value": "sótano",
+    "synonyms": [
+      "sótano",
+      "garaje",
+      "aparcamiento"
+    ]
+  },
+  {
+    "value": "salón",
+    "synonyms": [
+      "salón",
+      "cuarto de estar"
+    ]
+  },
+  {
+    "value": "patio",
+    "synonyms": [
+      "patio",
+      "patio interior"
+    ]
+  },
+  {
+    "value": "baño",
+    "synonyms": [
+      "baño",
+      "cuarto de baño",
+      "aseo",
+      "servicio"
+    ]
+  },
+  {
+    "value": "sala de lavadoras",
+    "synonyms": [
+      "sala de lavadoras",
+      "lavandería"
+    ]
+  },
+  {
+    "value": "pasillo",
+    "synonyms": [
+      "pasillo",
+      "corredor"
+    ]
+  },
+  {
+    "value": "habitación",
+    "synonyms": [
+      "habitación",
+      "cuarto",
+      "dormitorio"
+    ]
+  },
+  {
+    "value": "cocina",
+    "synonyms": [
+      "cocina"
+    ]
+  },
+  {
+    "value": "habitación secreta",
+    "synonyms": [
+      "habitación secreta"
+    ]
+  },
+  {
+    "value": "recibidor",
+    "synonyms": [
+      "recibidor",
+      "entrada"
+    ]
+  }
+]

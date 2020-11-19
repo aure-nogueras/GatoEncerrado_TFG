@@ -1,0 +1,353 @@
+[
+  {
+    "id": "869eab86-3a42-4c44-b5f6-7b9681031939",
+    "data": [
+      {
+        "text": "ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04b13dff-4021-4db3-916e-c9289d2d870e",
+    "data": [
+      {
+        "text": "ve a ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3142b093-5afb-48b5-aca7-03fc3732ac07",
+    "data": [
+      {
+        "text": "desplazarse a ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3aee1af9-ecd6-4f7f-9974-ae19d82f7455",
+    "data": [
+      {
+        "text": "moverse a ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1c72f45-0bb3-4515-ae5c-def9b66c54af",
+    "data": [
+      {
+        "text": "volver a ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61eb927d-9a2a-4dcc-be8c-b18d646d15b9",
+    "data": [
+      {
+        "text": "meterse en ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39a6d8f7-a03f-468f-9589-c0e43ec15ea1",
+    "data": [
+      {
+        "text": "ir al ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5c158c6-ad58-4461-b406-552f5961bb93",
+    "data": [
+      {
+        "text": "volver al ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc2245bb-ff7d-495f-bc72-0458e3986108",
+    "data": [
+      {
+        "text": "moverse al ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61806186-c4f5-4c3d-84af-9f955dcd9275",
+    "data": [
+      {
+        "text": "desplazarse al ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7c6c3af-edd2-4e8d-b25e-bbf136398410",
+    "data": [
+      {
+        "text": "muévete al ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c115555-10a4-4dba-b070-84c407c15759",
+    "data": [
+      {
+        "text": "desplázate al ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e074de2-9589-4d31-97b3-16bbc9753a36",
+    "data": [
+      {
+        "text": "ve al ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4119bc1f-88b5-40e2-a73f-531d314f90ee",
+    "data": [
+      {
+        "text": "volver a la ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3df038b3-2452-4cff-8c0f-5dabc4868511",
+    "data": [
+      {
+        "text": "moverse a la ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71739537-394a-4b6a-98f2-61964942fb81",
+    "data": [
+      {
+        "text": "desplazarse a la ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96bd7866-5c3f-4eae-8533-47b5c0431b51",
+    "data": [
+      {
+        "text": "muévete a la ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a092b50-94cb-4281-9031-19e892537379",
+    "data": [
+      {
+        "text": "desplázate a la ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "440ff30d-b8b7-42e9-b3c8-67b56dac2097",
+    "data": [
+      {
+        "text": "ve a ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Places",
+        "meta": "@Places",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

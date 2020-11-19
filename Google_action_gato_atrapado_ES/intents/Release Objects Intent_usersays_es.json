@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1e347099-5081-492b-b27c-0944ba16366f",
+    "data": [
+      {
+        "text": "Soltar ",
+        "userDefined": false
+      },
+      {
+        "text": "almohada",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa45ab44-4e96-40f0-9d7c-66e33ec68157",
+    "data": [
+      {
+        "text": "Suelta ",
+        "userDefined": false
+      },
+      {
+        "text": "mesa",
+        "alias": "StillObjects",
+        "meta": "@StillObjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

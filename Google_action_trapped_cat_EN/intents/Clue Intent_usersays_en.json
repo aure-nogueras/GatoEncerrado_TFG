@@ -1,0 +1,62 @@
+[
+  {
+    "id": "31020850-67e0-472c-962a-f075adb9b217",
+    "data": [
+      {
+        "text": "give me a clue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e3373ccb-fff1-4146-82d6-fd85f23dcfee",
+    "data": [
+      {
+        "text": "say clue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45008ed0-88a7-4f72-bff2-734d77f35d73",
+    "data": [
+      {
+        "text": "tell me a clue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "899d1ce8-32dc-43ef-afd2-ed3bc328ce31",
+    "data": [
+      {
+        "text": "can you give me a clue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92e4be49-e07b-4c76-92b3-c5d91343f63d",
+    "data": [
+      {
+        "text": "clue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "41aba4d6-1180-48a6-9ff6-5e7c26e61fed",
+    "data": [
+      {
+        "text": "Press ",
+        "userDefined": false
+      },
+      {
+        "text": "earth",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fire",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfbfae5f-48ab-43d9-8df0-45b734b5e3ca",
+    "data": [
+      {
+        "text": "Push ",
+        "userDefined": false
+      },
+      {
+        "text": "earth",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fire",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "Symbol",
+        "meta": "@Symbol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

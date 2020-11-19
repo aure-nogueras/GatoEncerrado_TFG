@@ -1,0 +1,9 @@
+{
+  "id": "f8bf1b3c-10c8-4b55-ab43-aad140eb5877",
+  "name": "HelpType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

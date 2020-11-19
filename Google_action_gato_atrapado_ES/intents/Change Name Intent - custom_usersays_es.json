@@ -1,0 +1,57 @@
+[
+  {
+    "id": "8c4b0b33-103d-4647-9430-0153cc2fc506",
+    "data": [
+      {
+        "text": "Antonio",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9f2cf25-e7db-4193-9d22-6de3e91377c0",
+    "data": [
+      {
+        "text": "Me llamo ",
+        "userDefined": false
+      },
+      {
+        "text": "Juan",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cc6bf64-4c1b-4452-8493-6aada23717f5",
+    "data": [
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre es ",
+        "userDefined": false
+      },
+      {
+        "text": "Alberto",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

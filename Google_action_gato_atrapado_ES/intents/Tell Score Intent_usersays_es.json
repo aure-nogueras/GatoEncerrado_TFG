@@ -1,0 +1,68 @@
+[
+  {
+    "id": "42b64ec0-7291-4cde-81c9-e3540247be20",
+    "data": [
+      {
+        "text": "cuántos puntos llevo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e53b6d3-48a2-4f25-9acc-a81e2ee6b077",
+    "data": [
+      {
+        "text": "dime ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " puntuación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84a83144-d514-487e-8aa1-8e30271a8b2c",
+    "data": [
+      {
+        "text": "cuál es ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " puntuación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1ab555d-11f4-41bd-bd07-8786be9e4e7f",
+    "data": [
+      {
+        "text": "puntuación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

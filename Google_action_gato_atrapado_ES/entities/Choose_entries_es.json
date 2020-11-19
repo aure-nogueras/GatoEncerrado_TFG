@@ -1,0 +1,44 @@
+[
+  {
+    "value": "comer",
+    "synonyms": [
+      "comer",
+      "comérselo"
+    ]
+  },
+  {
+    "value": "jugar",
+    "synonyms": [
+      "jugar",
+      "jugar con él"
+    ]
+  },
+  {
+    "value": "apretar",
+    "synonyms": [
+      "apretar",
+      "apretarlo"
+    ]
+  },
+  {
+    "value": "lanzar",
+    "synonyms": [
+      "lanzar",
+      "lanzarlo"
+    ]
+  },
+  {
+    "value": "beber",
+    "synonyms": [
+      "beber",
+      "beberlo"
+    ]
+  },
+  {
+    "value": "derramar",
+    "synonyms": [
+      "derramar",
+      "derramarlo"
+    ]
+  }
+]

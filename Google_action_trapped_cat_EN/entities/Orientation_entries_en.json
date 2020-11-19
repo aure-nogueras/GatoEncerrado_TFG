@@ -1,0 +1,48 @@
+[
+  {
+    "value": "down",
+    "synonyms": [
+      "down",
+      "ground",
+      "floor"
+    ]
+  },
+  {
+    "value": "up",
+    "synonyms": [
+      "up",
+      "ceiling"
+    ]
+  },
+  {
+    "value": "west",
+    "synonyms": [
+      "west",
+      "left"
+    ]
+  },
+  {
+    "value": "east",
+    "synonyms": [
+      "east",
+      "right"
+    ]
+  },
+  {
+    "value": "south",
+    "synonyms": [
+      "south",
+      "behind",
+      "back"
+    ]
+  },
+  {
+    "value": "north",
+    "synonyms": [
+      "north",
+      "ahead",
+      "front",
+      "in front of me"
+    ]
+  }
+]

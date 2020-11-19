@@ -1,0 +1,49 @@
+{
+  "id": "b4df640c-2b8e-4baa-a1dc-c3dac893a492",
+  "name": "Choose Object Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a0644c9d-169e-4950-b67b-48962336542b",
+          "required": false,
+          "dataType": "@Choose",
+          "name": "choose",
+          "value": "$choose",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d46d18ad-66f4-49f0-bf40-b325d6f41c05",
+          "required": false,
+          "dataType": "@ObjectsChoose",
+          "name": "objectschoose",
+          "value": "$objectschoose",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

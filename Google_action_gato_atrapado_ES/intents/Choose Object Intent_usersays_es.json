@@ -1,0 +1,146 @@
+[
+  {
+    "id": "d74b7f01-e7a3-4c76-a368-478794f7fd18",
+    "data": [
+      {
+        "text": "derramar",
+        "alias": "choose",
+        "meta": "@Choose",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "veneno",
+        "alias": "objectschoose",
+        "meta": "@ObjectsChoose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91f6b7a4-7890-4e00-bef7-b0a3271ca91e",
+    "data": [
+      {
+        "text": "beber",
+        "alias": "choose",
+        "meta": "@Choose",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "veneno",
+        "alias": "objectschoose",
+        "meta": "@ObjectsChoose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0716c7fc-129d-47f9-bfcf-6be66f0db2f0",
+    "data": [
+      {
+        "text": "jugar",
+        "alias": "choose",
+        "meta": "@Choose",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "ovillo",
+        "alias": "objectschoose",
+        "meta": "@ObjectsChoose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94e18e2a-991d-4b53-adb2-d3182355647d",
+    "data": [
+      {
+        "text": "comer",
+        "alias": "choose",
+        "meta": "@Choose",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comida",
+        "alias": "objectschoose",
+        "meta": "@ObjectsChoose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1a5ecea-b899-4597-b58a-131f91729789",
+    "data": [
+      {
+        "text": "lanzar",
+        "alias": "choose",
+        "meta": "@Choose",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cuenco",
+        "alias": "objectschoose",
+        "meta": "@ObjectsChoose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd18f06b-4cff-402b-94b6-5c4fd7795dcf",
+    "data": [
+      {
+        "text": "apretar",
+        "alias": "choose",
+        "meta": "@Choose",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rata",
+        "alias": "objectschoose",
+        "meta": "@ObjectsChoose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

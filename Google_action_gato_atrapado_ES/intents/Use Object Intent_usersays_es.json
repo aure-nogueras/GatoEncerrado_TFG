@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ef8fd8ba-2fe7-4d14-8229-ea982d380239",
+    "data": [
+      {
+        "text": "Utiliza ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80bb6a80-c1c0-4e15-a262-dfc4cae6783b",
+    "data": [
+      {
+        "text": "Usar ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbfda3ce-abdb-43ac-a28f-c805b3f44d9f",
+    "data": [
+      {
+        "text": "Usa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "70802f76-96cb-40a4-b5e9-dd3219af6d06",
+    "data": [
+      {
+        "text": "Utilizar ",
+        "userDefined": false
+      },
+      {
+        "text": "object",
+        "alias": "Objects",
+        "meta": "@Objects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

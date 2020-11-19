@@ -1,0 +1,49 @@
+{
+  "id": "eaa15e0c-2f28-4eea-b6d6-ec7d7db8deb3",
+  "parentId": "8a703bee-7db3-46b8-ac7f-4a281b4378d4",
+  "rootParentId": "8a703bee-7db3-46b8-ac7f-4a281b4378d4",
+  "name": "Change Name Intent - custom",
+  "auto": true,
+  "contexts": [
+    "ChangeNameIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ChangeNameIntent.ChangeNameIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "813d912a-5dd0-4e32-8816-e487602bcf4e",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

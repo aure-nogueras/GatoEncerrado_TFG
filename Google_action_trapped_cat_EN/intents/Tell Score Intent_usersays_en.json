@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c6da6a91-f57a-4fb5-925f-9c7b3f4e6f44",
+    "data": [
+      {
+        "text": "what is my score",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62130608-b303-4649-a329-ec36e2b76297",
+    "data": [
+      {
+        "text": "score",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c34f736c-8254-42ff-9885-70c2b30efcd4",
+    "data": [
+      {
+        "text": "tell me my score",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40cff657-678f-4aa0-aa58-cf266831dd81",
+    "data": [
+      {
+        "text": "tell my score",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "654f278a-b301-4a40-ab81-7a4764406586",
+    "data": [
+      {
+        "text": "how many points do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

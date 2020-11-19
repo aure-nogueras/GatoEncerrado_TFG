@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16d45af3-60e6-4d28-b570-829f0b3261af",
+    "data": [
+      {
+        "text": "Look ",
+        "userDefined": false
+      },
+      {
+        "text": "orientation",
+        "alias": "Orientation",
+        "meta": "@Orientation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a12cee5-8668-452d-b346-6e72ff57aa89",
+    "data": [
+      {
+        "text": "Look to the ",
+        "userDefined": false
+      },
+      {
+        "text": "orientation",
+        "alias": "Orientation",
+        "meta": "@Orientation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

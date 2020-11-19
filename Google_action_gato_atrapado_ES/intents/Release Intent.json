@@ -1,0 +1,54 @@
+{
+  "id": "8d5c61af-f769-421f-8f8f-2328549f28e0",
+  "name": "Release Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5a51230f-d9c0-446c-93f3-a98122278346",
+          "required": true,
+          "dataType": "@Objects",
+          "name": "Objects",
+          "value": "$Objects",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Soltar qué?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Qué quieres soltar?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

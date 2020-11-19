@@ -1,0 +1,9 @@
+{
+  "id": "3b038134-dce7-4ed5-a4c6-65417466ae3f",
+  "name": "Places",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

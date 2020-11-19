@@ -1,0 +1,9 @@
+{
+  "id": "621fa2f6-0a00-4209-8ac2-734257df59fa",
+  "name": "Author",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "5fd60ddb-87c3-480a-8002-cc5d600175a9",
+  "name": "CatObjects",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
