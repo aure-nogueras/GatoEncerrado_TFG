@@ -1,7 +1,10 @@
 # GatoEncerrado_TFG
+
+Bachelor Thesis in Computer Science Engineering. Conversational adventure game for a virtual assistant with escape room elements.
+
 TFG del Grado en Ingeniería Informática. Aventura conversacional para un asistente virtual con elementos de escape room.
 
-Disponible para Alexa [aquí](https://www.amazon.es/Universidad-de-Granada-Gato-encerrado/dp/B08DRKXGH4/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=gato+encerrado&qid=1596482885&s=digital-skills&sr=1-1
+Available for Alexa [aquí](https://www.amazon.es/Universidad-de-Granada-Gato-encerrado/dp/B08DRKXGH4/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=gato+encerrado&qid=1596482885&s=digital-skills&sr=1-1
 ) y para Google Assistant [aquí](https://assistant.google.com/services/a/uid/000000b3eb8d1518?source=web).
 
 ## Resumen
