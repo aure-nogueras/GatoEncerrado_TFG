@@ -1,0 +1,487 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "juego inicial",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "LookIntent",
+          "slots": [
+            {
+              "name": "direction",
+              "type": "Orientation"
+            }
+          ],
+          "samples": [
+            "Mira {direction}",
+            "Mira hacia {direction}",
+            "Mira al {direction}",
+            "Mirar al {direction}",
+            "Mirar hacia {direction}",
+            "Mirar {direction}"
+          ]
+        },
+        {
+          "name": "InteractionIntent",
+          "slots": [
+            {
+              "name": "StillObjects",
+              "type": "StillObjects"
+            }
+          ],
+          "samples": [
+            "Ver {StillObjects}",
+            "Inspecciona {StillObjects}",
+            "Inspeccionar {StillObjects}",
+            "Interaccionar con {StillObjects}",
+            "Interacciona con {StillObjects}",
+            "Mira {StillObjects}",
+            "Mirar {StillObjects}",
+            "Examina {StillObjects}",
+            "Examinar {StillObjects}"
+          ]
+        },
+        {
+          "name": "NewGameIntent",
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "samples": [
+                "{name}",
+                "Mi nombre es {name}"
+              ]
+            }
+          ],
+          "samples": [
+            "empezar nuevo juego",
+            "comenzar nuevo juego",
+            "empezar juego",
+            "comenzar juego",
+            "juego nuevo",
+            "nuevo",
+            "Reiniciar juego",
+            "Reinicia juego"
+          ]
+        },
+        {
+          "name": "DefaultInteractionIntent",
+          "slots": [
+            {
+              "name": "query",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "samples": [
+            "Examinar {query}",
+            "Examina {query}",
+            "Ver {query}",
+            "Interaccionar con {query}",
+            "Interacciona con {query}",
+            "Inspeccionar {query}",
+            "Inspecciona {query}",
+            "Mirar {query}",
+            "Mira {query}"
+          ]
+        },
+        {
+          "name": "TakeIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects"
+            }
+          ],
+          "samples": [
+            "Coger {object}",
+            "Coge {object}"
+          ]
+        },
+        {
+          "name": "ReleaseIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects"
+            }
+          ],
+          "samples": [
+            "Soltar {object}",
+            "Suelta {object}"
+          ]
+        },
+        {
+          "name": "InventoryIntent",
+          "slots": [],
+          "samples": [
+            "Qué tengo en el inventario",
+            "Qué hay en el inventario",
+            "Qué tengo en la mochila",
+            "Dime lo que hay en la mochila",
+            "Qué hay en la mochila",
+            "Dime lo que tengo en la mochila",
+            "Qué objetos llevo",
+            "Qué llevo",
+            "mirar inventario",
+            "mirar mochila",
+            "ver inventario",
+            "ver mochila"
+          ]
+        },
+        {
+          "name": "UseIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects"
+            },
+            {
+              "name": "element",
+              "type": "StillObjects"
+            }
+          ],
+          "samples": [
+            "Usar {object} con {element}",
+            "Usa {object} con {element}",
+            "Usa {object} en {element}",
+            "Usar {object} en {element}",
+            "Utilizar {object} con {element}",
+            "Utiliza {object} con {element}",
+            "Utiliza {object} en {element}",
+            "Utilizar {object} en {element}"
+          ]
+        },
+        {
+          "name": "WhereIntent",
+          "slots": [],
+          "samples": [
+            "dónde me encuentro",
+            "dónde estoy",
+            "en qué habitación estoy",
+            "en qué lugar estoy",
+            "en qué lugar me encuentro",
+            "qué sitio es este",
+            "qué es este lugar"
+          ]
+        },
+        {
+          "name": "ClueIntent",
+          "slots": [],
+          "samples": [
+            "dame una pista",
+            "dime una pista",
+            "dar pista",
+            "decir pista",
+            "puedes darme una pista",
+            "pista"
+          ]
+        },
+        {
+          "name": "TellNameIntent",
+          "slots": [],
+          "samples": [
+            "Cuál es mi nombre",
+            "Dime mi nombre",
+            "Cómo me llamo"
+          ]
+        },
+        {
+          "name": "ChangeNameIntent",
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "samples": [
+                "{name}",
+                "Mi nuevo nombre es {name}"
+              ]
+            }
+          ],
+          "samples": [
+            "quiero modificar mi nombre",
+            "cambio de nombre",
+            "Quiero cambiar mi nombre"
+          ]
+        },
+        {
+          "name": "TellScoreIntent",
+          "slots": [],
+          "samples": [
+            "cuántos puntos llevo",
+            "Cuál es mi puntuación",
+            "Dime mi puntuación"
+          ]
+        },
+        {
+          "name": "ChooseIntent",
+          "slots": [
+            {
+              "name": "choose",
+              "type": "Choose"
+            }
+          ],
+          "samples": [
+            "{choose}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "abajo",
+                "synonyms": [
+                  "suelo"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "arriba",
+                "synonyms": [
+                  "techo"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "oeste",
+                "synonyms": [
+                  "izquierda"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "este",
+                "synonyms": [
+                  "derecha"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "sur",
+                "synonyms": [
+                  "atrás",
+                  "detrás"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "norte",
+                "synonyms": [
+                  "adelante",
+                  "delante"
+                ]
+              }
+            }
+          ],
+          "name": "Orientation"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "ventana"
+              }
+            },
+            {
+              "name": {
+                "value": "cuadro"
+              }
+            },
+            {
+              "name": {
+                "value": "interruptor"
+              }
+            },
+            {
+              "name": {
+                "value": "lámpara"
+              }
+            },
+            {
+              "name": {
+                "value": "trampilla"
+              }
+            },
+            {
+              "name": {
+                "value": "puerta"
+              }
+            },
+            {
+              "name": {
+                "value": "estantería",
+                "synonyms": [
+                  "estantes"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "armario"
+              }
+            },
+            {
+              "name": {
+                "value": "almohada"
+              }
+            },
+            {
+              "name": {
+                "value": "cajón"
+              }
+            },
+            {
+              "name": {
+                "value": "escritorio",
+                "synonyms": [
+                  "mesa"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "cama"
+              }
+            }
+          ],
+          "name": "StillObjects"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "comida de gato",
+                "synonyms": [
+                  "comida"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "silla"
+              }
+            },
+            {
+              "name": {
+                "value": "llave"
+              }
+            },
+            {
+              "name": {
+                "value": "martillo"
+              }
+            }
+          ],
+          "name": "Objects"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "comer"
+              }
+            },
+            {
+              "name": {
+                "value": "guardar"
+              }
+            }
+          ],
+          "name": "Choose"
+        }
+      ]
+    },
+    "dialog": {
+      "intents": [
+        {
+          "name": "NewGameIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.1039658917262.964547291778"
+              }
+            }
+          ]
+        },
+        {
+          "name": "ChangeNameIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.1381334804130.1340777315268"
+              }
+            }
+          ]
+        }
+      ],
+      "delegationStrategy": "ALWAYS"
+    },
+    "prompts": [
+      {
+        "id": "Confirm.Intent.1333785257438",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "sí"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.1039658917262.964547291778",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Dime tu nombre"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.1381334804130.1340777315268",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Dime tu nuevo nombre"
+          }
+        ]
+      }
+    ]
+  },
+  "version": "22"
+}

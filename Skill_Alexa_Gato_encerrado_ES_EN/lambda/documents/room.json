@@ -1,0 +1,181 @@
+{
+    "type": "APL",
+    "version": "1.3",
+    "settings": {},
+    "theme": "dark",
+    "import": [
+        {
+          "name": "alexa-layouts",
+          "version": "1.0.0"
+        }
+    
+   ],
+    "resources": [
+        {
+            "description": "Colors",
+            "colors": {
+                "myYellow": "#E5CE3F",
+                "myRed": "#E53F56",
+                "myOrange": "#E57B3F",
+                "myGreen": "#56E53F",
+                "myBlue": "#3FA9E5",
+                "myTeal": "#3FE5CE",
+                "myPink": "#E53FA9",
+                "myPurple": "#CE3FE5",
+                "myNavy": "#0E032F",
+                "myWhite": "#FDFDFD",
+                "myLightGray": "#DFE3E9",
+                "myGray": "#BCBEC8",
+                "myDarkGray": "#9295A5"
+            }
+        }
+    ],
+    "styles": {},
+    "onMount": [],
+    "graphics": {},
+    "commands": {},
+    "layouts": {
+        "LargeButton": {
+            "parameters": [
+                "title",
+                "color",
+                "arguments"
+            ],
+            "items": [
+                {
+                    "type": "TouchWrapper",
+                    "width": "20vw",
+                    "height": "14vh",
+                    "items": [
+                        {
+                            "type": "Frame",
+                            "width": "20vw",
+                            "height": "14vh",
+                            "backgroundColor": "black",
+                            "borderColor": "${color}",
+                            "borderWidth": "1vh",
+                            "borderRadius": "1vw",
+                            "item": {
+                                "type": "Text",
+                                "text": "${title}",
+                                "fontSize": "3vh",
+                                "paddingLeft": "1vw",
+                                "paddingRight": "1vw",
+                                "color": "${color}",
+                                "width": "20vw",
+                                "height": "14vh",
+                                "textAlign": "center",
+                                "textAlignVertical": "center"
+                            }
+                        }
+                    ],
+                    "onPress": {
+                        "type": "SendEvent",
+                        "arguments": [
+                            "${arguments}"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "mainTemplate": {
+        "parameters": [
+            "payload"
+        ],
+        "items": [
+            {
+                "type": "Container",
+                "width": "100vw",
+                "height": "100vh",
+                "items": [
+                    {
+                        "type": "Image",
+                        "source": "${payload.launchData.properties.img}",
+                        "scale": "best-fill",
+                        "width": "100vw",
+                        "height": "100vh"
+                    },
+                    {
+                        
+                        "type": "Container",
+                        "width": "100vw",
+                        "height": "100vh",
+                        "alignItems": "center",
+                        "position": "absolute",
+                        "items": [
+    
+                            {
+                                "type": "Container",
+                                "width": "65vw",
+                                "height": "40vh",
+                                "position": "absolute",
+                                "top": "64vh",
+                                "alignItems": "center",
+                                "justifyContent": "center",
+                                "items": [
+                                    {
+                                        "type": "Container",
+                                        "width": "65vw",
+                                        "height": "15vh",
+                                        "alignItems": "center",
+                                        "justifyContent": "center",
+                                        "direction": "row",
+                                        "items": [
+                                            {
+                                                "type": "LargeButton",
+                                                "title": "${payload.launchData.properties.title1}",
+                                                "color": "@myWhite",
+                                                "arguments": "inventory",
+                                                "position": "absolute",
+                                                "left": "10vw"
+                                            },
+                                            {
+                                                "type": "LargeButton",
+                                                "title": "${payload.launchData.properties.title2}",
+                                                "color": "@myWhite",
+                                                "arguments": "clue",
+                                                "position": "absolute",
+                                                "right": "10vw"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Container",
+                        "position": "absolute",
+                        "width": "100vw",
+                        "height": "100vh",
+                        "alignItems": "center",
+                        "direction": "column",
+                        "items": [
+                            {
+                                "type": "Container",
+                                "position": "absolute",
+                                "width": "60vw",
+                                "height": "40vh",
+                                "alignItems": "center",
+                                "direction": "column",
+                                "items": [
+                                    {
+                                       "headerTitle": "${payload.launchData.properties.headerTitle}",
+                                       "backgroundColor": "black",
+                                       "borderColor": "white",
+                                       "borderWidth": "1vh",
+                                       "borderRadius": "1vw",
+                                       "type": "AlexaHeader"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+            
+                
+        ]
+    }
+}

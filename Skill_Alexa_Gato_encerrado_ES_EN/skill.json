@@ -1,0 +1,140 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "First version of a house escape game.",
+          "examplePhrases": [
+            "Alexa, open locked cat",
+            "help",
+            "new game"
+          ],
+          "keywords": [
+            "escape",
+            "room",
+            "conversational",
+            "adventure",
+            "game",
+            "interaction",
+            "choose"
+          ],
+          "name": "Locked cat",
+          "description": "You wake up in your room, but everything seems different. You start to investigate and discover new rooms and objects. Where will all of this take you to?\n\nTo play you need to know that there are two types of objects: those you can keep in the inventory, like a lantern or a key, and those you can\u0027t take out of the room, like a bed, a painting... \nYou can look or examine the objects you can\u0027t save in the inventory to obtain more information about them. For those objects you can keep, you can say take, drop or use. \nTo explore the room, you can look in any direction: north, south, east, west, up and down. This will give you enough information to examine the objects you see. \nYou can combine two objects of the inventory or use one object of the inventory with an object of the room. For example, you can say: use key in door or combine lantern with batteries.\nYou can go to another room saying: go to and the name of the room. Furthermore, you can obtain a clue, ask where are you, what\u0027s in your inventory, what\u0027s your name, what\u0027s your score or change your name. \n\nSome examples of the actions you can do: \n\n- look (direction) \n- look up \n- look or examine (object of the room) \n- look bed \n- take (portable object) \n- take key\n- drop (portable object) \n- drop key\n- use (portable object) \n- use letter (some objects of the inventory can be used individually; in this case we would read the letter)\n- use (portable object) in (object of the room) \n- use key in door\n- combine or use (portable object) with/in (portable object) \n- combine batteries and lantern\n- go to the (name of the room) \n- go to the bathroom (you can go to an adjacent room if the access is open)\n- where am I \n- what\u0027s in my inventory\n- give me a clue\n- change name\n- what is my name\n- what is my score\n\nThere are some other instructions during the game. They are explained when they are needed.\n\nGood luck in your adventure! :)\n\nIcons designed by Smashicons (https://smashicons.com/) from Flaticon (https://www.flaticon.es/).",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "es-ES": {
+          "summary": "Primera versión de un juego de escapar de una casa.",
+          "examplePhrases": [
+            "Alexa, abre gato encerrado",
+            "ayuda",
+            "nuevo juego"
+          ],
+          "keywords": [
+            "escape",
+            "room",
+            "aventura",
+            "conversacional",
+            "juego",
+            "interacción",
+            "decisiones"
+          ],
+          "name": "Gato encerrado",
+          "description": "Despiertas en tu habitación, pero todo parece distinto. Empiezas a investigar y vas descubriendo pistas y habitaciones. ¿A dónde te llevará todo esto?\n\nPara jugar debes tener en cuenta que existen dos tipos de objetos: aquellos que puedes guardar en el inventario, como una linterna o una llave, y aquellos que permanecen en la habitación, como una cama, un cuadro... \nEn el caso de los objetos que no pueden ser almacenados, puedes decir inspeccionar o mirar para obtener más información sobre los mismos. Para aquellos objetos que sí puedes guardar, puedes decir coger, soltar o usar. \nPara explorar la habitación, puedes mirar en cualquier dirección: norte, sur, este, oeste, arriba y abajo. Esto te dará la información necesaria para inspeccionar los objetos que veas del modo explicado. \nPuedes combinar dos objetos que tengas en el inventario o usar un objeto del inventario con uno de la habitación diciendo, por ejemplo: usar llave en puerta o combinar pilas y linterna. \nPuedes ir de una habitación a otra, diciendo ir a y el nombre de la habitación. También puedes obtener una pista, preguntar dónde estás, cómo te llamas, cuántos puntos tienes, cambiar tu nombre o saber qué tienes en el inventario. \n                 \n\nAlgunos ejemplos de las posibles acciones son: \n\n- mirar (dirección) \n- mirar arriba\n- mirar o examinar (objeto de la habitación) -\n- mirar cama\n- coger (objeto portátil) \n- coger llave\n- soltar (objeto portátil) \n- soltar silla\n- usar (objeto portátil) \n- usar carta (hay objetos que pueden usarse por sí solos. Por ejemplo, usar carta permite examinarla y leerla)\n- usar (objeto portátil) en (objeto de la habitación)\n- usar llave en puerta\n- usar o combinar (objeto portátil) con/en (objeto portátil) \n- usar pilas con linterna\n- ir a (nombre de habitación) \n- ir a baño (debe ser una habitación contigua a la actual y con el acceso abierto)\n- dónde estoy\n- qué tengo en el inventario\n- dame una pista\n- cómo me llamo\n- cambiar nombre\n- cuál es mi puntuación\n\nHay algunas instrucciones más durante el desarrollo del juego. Se explican en el momento en el que son necesarias.\n\n¡Suerte en tu aventura! :)\n\nIconos diseñados por Smashicons (https://smashicons.com/) de Flaticon (https://www.flaticon.es/).",
+          "smallIconUri": "file://assets/images/es-ES_smallIconUri.png",
+          "largeIconUri": "file://assets/images/es-ES_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "PUZZLES",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:115889119941:function:272e516d-a9ca-4bd2-aafb-14eff147ec0a:Release_0"
+        },
+        "interfaces": [
+          {
+            "supportedViewports": [
+              {
+                "minHeight": 480,
+                "mode": "HUB",
+                "shape": "ROUND",
+                "maxHeight": 480,
+                "minWidth": 480,
+                "maxWidth": 480
+              },
+              {
+                "minHeight": 600,
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "maxHeight": 600,
+                "minWidth": 1024,
+                "maxWidth": 1024
+              },
+              {
+                "minHeight": 800,
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "maxHeight": 800,
+                "minWidth": 1280,
+                "maxWidth": 1280
+              },
+              {
+                "minHeight": 540,
+                "mode": "TV",
+                "shape": "RECTANGLE",
+                "maxHeight": 540,
+                "minWidth": 960,
+                "maxWidth": 960
+              },
+              {
+                "minHeight": 480,
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "maxHeight": 480,
+                "minWidth": 960,
+                "maxWidth": 960
+              }
+            ],
+            "type": "ALEXA_PRESENTATION_APL"
+          }
+        ],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:115889119941:function:272e516d-a9ca-4bd2-aafb-14eff147ec0a:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:115889119941:function:272e516d-a9ca-4bd2-aafb-14eff147ec0a:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:115889119941:function:272e516d-a9ca-4bd2-aafb-14eff147ec0a:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {},
+        "es-ES": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

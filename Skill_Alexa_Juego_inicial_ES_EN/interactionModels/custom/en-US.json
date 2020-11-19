@@ -1,0 +1,448 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "initial game",
+      "intents": [
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "LookIntent",
+          "slots": [
+            {
+              "name": "direction",
+              "type": "Orientation"
+            }
+          ],
+          "samples": [
+            "Look {direction}",
+            "Look to the {direction}"
+          ]
+        },
+        {
+          "name": "InteractionIntent",
+          "slots": [
+            {
+              "name": "StillObjects",
+              "type": "StillObjects"
+            }
+          ],
+          "samples": [
+            "Inspect {StillObjects}",
+            "Interact with {StillObjects}",
+            "Examine {StillObjects}",
+            "Look {StillObjects}"
+          ]
+        },
+        {
+          "name": "NewGameIntent",
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "samples": [
+                "My name is {name}",
+                "{name}"
+              ]
+            }
+          ],
+          "samples": [
+            "new adventure",
+            "new game",
+            "start a new adventure",
+            "start a new game",
+            "new",
+            "Reset game",
+            "Restart game"
+          ]
+        },
+        {
+          "name": "DefaultInteractionIntent",
+          "slots": [
+            {
+              "name": "query",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "samples": [
+            "Examine {query}",
+            "Look {query}",
+            "Interact with {query}",
+            "Inspect {query}"
+          ]
+        },
+        {
+          "name": "TakeIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects"
+            }
+          ],
+          "samples": [
+            "Pick {object}",
+            "Take {object}"
+          ]
+        },
+        {
+          "name": "ReleaseIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects"
+            }
+          ],
+          "samples": [
+            "Release {object}",
+            "Drop {object}"
+          ]
+        },
+        {
+          "name": "InventoryIntent",
+          "slots": [],
+          "samples": [
+            "what objects do I have",
+            "what is in my inventory",
+            "inventory",
+            "bag",
+            "schoolbag",
+            "see the inventory"
+          ]
+        },
+        {
+          "name": "UseIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects"
+            },
+            {
+              "name": "element",
+              "type": "StillObjects"
+            }
+          ],
+          "samples": [
+            "Use {object} in {element}",
+            "Use {object} with {element}"
+          ]
+        },
+        {
+          "name": "WhereIntent",
+          "slots": [],
+          "samples": [
+            "which room am I in",
+            "what is this place",
+            "where am I"
+          ]
+        },
+        {
+          "name": "ClueIntent",
+          "slots": [],
+          "samples": [
+            "say clue",
+            "tell me a clue",
+            "can you give me a clue",
+            "clue"
+          ]
+        },
+        {
+          "name": "TellNameIntent",
+          "slots": [],
+          "samples": [
+            "Who am I",
+            "Tell me my name",
+            "What is my name"
+          ]
+        },
+        {
+          "name": "ChangeNameIntent",
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "samples": [
+                "My new name is {name}",
+                "{name}"
+              ]
+            }
+          ],
+          "samples": [
+            "I want to change my name",
+            "change name"
+          ]
+        },
+        {
+          "name": "TellScoreIntent",
+          "slots": [],
+          "samples": [
+            "what is my score",
+            "Tell me my score",
+            "how many points do I have"
+          ]
+        },
+        {
+          "name": "ChooseIntent",
+          "slots": [
+            {
+              "name": "choose",
+              "type": "Choose"
+            }
+          ],
+          "samples": [
+            "{choose}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "south",
+                "synonyms": [
+                  "back"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "north",
+                "synonyms": [
+                  "front"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "west",
+                "synonyms": [
+                  "left"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "east",
+                "synonyms": [
+                  "right"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "down",
+                "synonyms": [
+                  "floor"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "up",
+                "synonyms": [
+                  "ceiling"
+                ]
+              }
+            }
+          ],
+          "name": "Orientation"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "bed"
+              }
+            },
+            {
+              "name": {
+                "value": "desk",
+                "synonyms": [
+                  "table"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "drawer"
+              }
+            },
+            {
+              "name": {
+                "value": "pillow"
+              }
+            },
+            {
+              "name": {
+                "value": "closet"
+              }
+            },
+            {
+              "name": {
+                "value": "shelf",
+                "synonyms": [
+                  "shelves"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "door"
+              }
+            },
+            {
+              "name": {
+                "value": "trapdoor"
+              }
+            },
+            {
+              "name": {
+                "value": "lamp"
+              }
+            },
+            {
+              "name": {
+                "value": "switch"
+              }
+            },
+            {
+              "name": {
+                "value": "painting"
+              }
+            },
+            {
+              "name": {
+                "value": "window"
+              }
+            }
+          ],
+          "name": "StillObjects"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "hammer"
+              }
+            },
+            {
+              "name": {
+                "value": "key"
+              }
+            },
+            {
+              "name": {
+                "value": "chair"
+              }
+            },
+            {
+              "name": {
+                "value": "cat food",
+                "synonyms": [
+                  "food",
+                  "food"
+                ]
+              }
+            }
+          ],
+          "name": "Objects"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "eat"
+              }
+            },
+            {
+              "name": {
+                "value": "keep"
+              }
+            }
+          ],
+          "name": "Choose"
+        }
+      ],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    },
+    "dialog": {
+      "intents": [
+        {
+          "name": "NewGameIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.1412116937824.1579107055630"
+              }
+            }
+          ]
+        },
+        {
+          "name": "ChangeNameIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.132055217734.486907835594"
+              }
+            }
+          ]
+        }
+      ],
+      "delegationStrategy": "ALWAYS"
+    },
+    "prompts": [
+      {
+        "id": "Elicit.Slot.1412116937824.1579107055630",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Tell me your name"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.132055217734.486907835594",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Tell me your new name"
+          }
+        ]
+      }
+    ]
+  },
+  "version": "2"
+}

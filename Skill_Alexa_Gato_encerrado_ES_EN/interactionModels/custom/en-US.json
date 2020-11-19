@@ -1,0 +1,1434 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "locked cat",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "InteractionIntent",
+          "slots": [
+            {
+              "name": "StillObjects",
+              "type": "StillObjects"
+            }
+          ],
+          "samples": [
+            "Look {StillObjects}",
+            "Examine {StillObjects}",
+            "Inspect {StillObjects}",
+            "Interact with  {StillObjects}"
+          ]
+        },
+        {
+          "name": "NewGameIntent",
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "samples": [
+                "I am {name}",
+                "My name is {name}",
+                "{name}"
+              ]
+            }
+          ],
+          "samples": [
+            "Restart game",
+            "Reset game",
+            "new",
+            "Start a new adventure",
+            "start a new game",
+            "new adventure",
+            "new game"
+          ]
+        },
+        {
+          "name": "DefaultInteractionIntent",
+          "slots": [
+            {
+              "name": "query",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "samples": [
+            "Examine {query}",
+            "Interact with {query}",
+            "Look {query}"
+          ]
+        },
+        {
+          "name": "LookIntent",
+          "slots": [
+            {
+              "name": "direction",
+              "type": "Orientation"
+            }
+          ],
+          "samples": [
+            "Look to the {direction}",
+            "Look {direction}"
+          ]
+        },
+        {
+          "name": "TakeIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects",
+              "samples": [
+                "save {object}",
+                "Pick {object}",
+                "Take {object}",
+                "I want to pick {object}",
+                "I want to take {object}",
+                "{object}"
+              ]
+            }
+          ],
+          "samples": [
+            "save {object}",
+            "save",
+            "pick",
+            "take",
+            "Take {object}",
+            "Pick {object}"
+          ]
+        },
+        {
+          "name": "ReleaseIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects",
+              "samples": [
+                "Drop {object}",
+                "Release {object}",
+                "I want to release {object}",
+                "I want to drop {object}",
+                "{object}"
+              ]
+            }
+          ],
+          "samples": [
+            "Drop",
+            "Release",
+            "Release {object}",
+            "Drop {object}"
+          ]
+        },
+        {
+          "name": "InventoryIntent",
+          "slots": [],
+          "samples": [
+            "see the inventory",
+            "schoolbag",
+            "bag",
+            "inventory",
+            "what is in my inventory",
+            "what objects do I have"
+          ]
+        },
+        {
+          "name": "CombineObjectsIntent",
+          "slots": [
+            {
+              "name": "item",
+              "type": "Objects"
+            },
+            {
+              "name": "itemsegundo",
+              "type": "Objects"
+            }
+          ],
+          "samples": [
+            "Combine {item} with {itemsegundo}",
+            "Combine {item} and {itemsegundo}",
+            "Use {item} with {itemsegundo}",
+            "Use {item} in {itemsegundo}"
+          ]
+        },
+        {
+          "name": "UseObjectIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects"
+            }
+          ],
+          "samples": [
+            "Use {object}"
+          ]
+        },
+        {
+          "name": "UseIntent",
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects"
+            },
+            {
+              "name": "element",
+              "type": "StillObjects"
+            }
+          ],
+          "samples": [
+            "Use {object} with {element}",
+            "Use {object} in {element}"
+          ]
+        },
+        {
+          "name": "WhereIntent",
+          "slots": [],
+          "samples": [
+            "where am I",
+            "which room am I in",
+            "what is this place"
+          ]
+        },
+        {
+          "name": "ClueIntent",
+          "slots": [],
+          "samples": [
+            "give me a clue",
+            "clue",
+            "can you give me a clue",
+            "tell me a clue",
+            "say clue"
+          ]
+        },
+        {
+          "name": "GoToIntent",
+          "slots": [
+            {
+              "name": "place",
+              "type": "Places"
+            }
+          ],
+          "samples": [
+            "go {place}",
+            "go to the {place}",
+            "move to the {place}",
+            "return to the {place}"
+          ]
+        },
+        {
+          "name": "PushSymbolsIntent",
+          "slots": [
+            {
+              "name": "symbol",
+              "type": "Symbol"
+            },
+            {
+              "name": "symboltwo",
+              "type": "Symbol"
+            },
+            {
+              "name": "symbolthree",
+              "type": "Symbol"
+            },
+            {
+              "name": "symbolfour",
+              "type": "Symbol"
+            }
+          ],
+          "samples": [
+            "Push {symbol} {symboltwo} {symbolthree} {symbolfour}",
+            "Press {symbol} {symboltwo} {symbolthree} {symbolfour}"
+          ]
+        },
+        {
+          "name": "ReadIntent",
+          "slots": [
+            {
+              "name": "author",
+              "type": "Author"
+            }
+          ],
+          "samples": [
+            "Read {author}"
+          ]
+        },
+        {
+          "name": "GiveCatIntent",
+          "slots": [
+            {
+              "name": "elementone",
+              "type": "CatObjects"
+            },
+            {
+              "name": "elementtwo",
+              "type": "CatObjects"
+            },
+            {
+              "name": "elementthree",
+              "type": "CatObjects"
+            },
+            {
+              "name": "elementfour",
+              "type": "CatObjects"
+            }
+          ],
+          "samples": [
+            "Give {elementone} {elementtwo} {elementthree} {elementfour}"
+          ]
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "GiveCatIntentTwo",
+          "slots": [
+            {
+              "name": "elementone",
+              "type": "CatObjects"
+            },
+            {
+              "name": "elementtwo",
+              "type": "CatObjects"
+            },
+            {
+              "name": "elementthree",
+              "type": "CatObjects"
+            }
+          ],
+          "samples": [
+            "Give {elementone} {elementtwo} {elementthree}"
+          ]
+        },
+        {
+          "name": "GiveCatIntentThree",
+          "slots": [
+            {
+              "name": "elementone",
+              "type": "CatObjects"
+            },
+            {
+              "name": "elementtwo",
+              "type": "CatObjects"
+            }
+          ],
+          "samples": [
+            "Give {elementone} {elementtwo}"
+          ]
+        },
+        {
+          "name": "GiveCatIntentFour",
+          "slots": [
+            {
+              "name": "elementone",
+              "type": "CatObjects"
+            }
+          ],
+          "samples": [
+            "Give {elementone}"
+          ]
+        },
+        {
+          "name": "TellNameIntent",
+          "slots": [],
+          "samples": [
+            "what is my name",
+            "tell my name",
+            "Tell me my name",
+            "who am I"
+          ]
+        },
+        {
+          "name": "TellScoreIntent",
+          "slots": [],
+          "samples": [
+            "how many points do I have",
+            "tell my score",
+            "score",
+            "what is my score",
+            "tell me my score"
+          ]
+        },
+        {
+          "name": "ChangeNameIntent",
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "samples": [
+                "I am {name}",
+                "My name is {name}",
+                "{name}"
+              ]
+            }
+          ],
+          "samples": [
+            "I want to modify my name",
+            "Change name",
+            "Modify name",
+            "I want to change my name"
+          ]
+        },
+        {
+          "name": "ChooseIntent",
+          "slots": [
+            {
+              "name": "choose",
+              "type": "Choose"
+            }
+          ],
+          "samples": [
+            "{choose}"
+          ]
+        },
+        {
+          "name": "ChooseObjectIntent",
+          "slots": [
+            {
+              "name": "choose",
+              "type": "Choose"
+            },
+            {
+              "name": "catobject",
+              "type": "ObjectsChoose"
+            }
+          ],
+          "samples": [
+            "{choose} with {catobject}",
+            "{choose} {catobject}"
+          ]
+        },
+        {
+          "name": "ContinueGameIntent",
+          "slots": [],
+          "samples": [
+            "continue game",
+            "continue",
+            "continue previous game"
+          ]
+        },
+        {
+          "name": "BackIntent",
+          "slots": [],
+          "samples": [
+            "back to the room"
+          ]
+        },
+        {
+          "name": "InteractionObjectsIntent",
+          "slots": [
+            {
+              "name": "obj",
+              "type": "Objects"
+            }
+          ],
+          "samples": [
+            "inspect {obj}",
+            "interact with {obj}",
+            "examine {obj}",
+            "Look {obj}"
+          ]
+        },
+        {
+          "name": "DefaultTakeIntent",
+          "slots": [
+            {
+              "name": "query",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "samples": [
+            "save {query}",
+            "take {query}",
+            "pick {query}"
+          ]
+        },
+        {
+          "name": "DefaultReleaseIntent",
+          "slots": [
+            {
+              "name": "query",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "samples": [
+            "release {query}",
+            "drop {query}"
+          ]
+        },
+        {
+          "name": "NumberCodeIntent",
+          "slots": [
+            {
+              "name": "number",
+              "type": "AMAZON.FOUR_DIGIT_NUMBER"
+            }
+          ],
+          "samples": [
+            "Insert {number}"
+          ]
+        },
+        {
+          "name": "TakeObjectsIntent",
+          "slots": [
+            {
+              "name": "StillObjects",
+              "type": "StillObjects"
+            }
+          ],
+          "samples": [
+            "save {StillObjects}",
+            "pick {StillObjects}",
+            "take {StillObjects}"
+          ]
+        },
+        {
+          "name": "ReleaseObjectsIntent",
+          "slots": [
+            {
+              "name": "StillObjects",
+              "type": "StillObjects"
+            }
+          ],
+          "samples": [
+            "release {StillObjects}",
+            "drop {StillObjects}"
+          ]
+        },
+        {
+          "name": "HelpIntent",
+          "slots": [
+            {
+              "name": "help",
+              "type": "HelpType",
+              "samples": [
+                "{help}",
+                "I want the {help}"
+              ]
+            }
+          ],
+          "samples": [
+            "{help}",
+            "Please help me",
+            "I need help",
+            "help"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "latch"
+              }
+            },
+            {
+              "name": {
+                "value": "shelf"
+              }
+            },
+            {
+              "name": {
+                "value": "wall"
+              }
+            },
+            {
+              "name": {
+                "value": "stoves",
+                "synonyms": [
+                  "stove"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "fridge",
+                "synonyms": [
+                  "refrigerator"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "worktop"
+              }
+            },
+            {
+              "name": {
+                "value": "carpet"
+              }
+            },
+            {
+              "name": {
+                "value": "cat scratcher",
+                "synonyms": [
+                  "scratcher"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "fishbowl"
+              }
+            },
+            {
+              "name": {
+                "value": "corpse",
+                "synonyms": [
+                  "cat corpse"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "bookshelf"
+              }
+            },
+            {
+              "name": {
+                "value": "board game",
+                "synonyms": [
+                  "game"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "car"
+              }
+            },
+            {
+              "name": {
+                "value": "sandbox"
+              }
+            },
+            {
+              "name": {
+                "value": "ventilation duct"
+              }
+            },
+            {
+              "name": {
+                "value": "lockbox",
+                "synonyms": [
+                  "safe"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "television",
+                "synonyms": [
+                  "tv"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "stairs"
+              }
+            },
+            {
+              "name": {
+                "value": "tray",
+                "synonyms": [
+                  "cookies tray"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "hole",
+                "synonyms": [
+                  "hole in the wall"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "table"
+              }
+            },
+            {
+              "name": {
+                "value": "footprints",
+                "synonyms": [
+                  "tracks"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "spider"
+              }
+            },
+            {
+              "name": {
+                "value": "toilet",
+                "synonyms": [
+                  "wc",
+                  "WC"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "first-aid kit"
+              }
+            },
+            {
+              "name": {
+                "value": "window"
+              }
+            },
+            {
+              "name": {
+                "value": "mirror"
+              }
+            },
+            {
+              "name": {
+                "value": "sink"
+              }
+            },
+            {
+              "name": {
+                "value": "skylight"
+              }
+            },
+            {
+              "name": {
+                "value": "dryer"
+              }
+            },
+            {
+              "name": {
+                "value": "washing machine"
+              }
+            },
+            {
+              "name": {
+                "value": "telephone"
+              }
+            },
+            {
+              "name": {
+                "value": "door with latch",
+                "synonyms": [
+                  "right door"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "glass door",
+                "synonyms": [
+                  "left door"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "padlock"
+              }
+            },
+            {
+              "name": {
+                "value": "painting"
+              }
+            },
+            {
+              "name": {
+                "value": "switch"
+              }
+            },
+            {
+              "name": {
+                "value": "lamp"
+              }
+            },
+            {
+              "name": {
+                "value": "trapdoor"
+              }
+            },
+            {
+              "name": {
+                "value": "door"
+              }
+            },
+            {
+              "name": {
+                "value": "shelves"
+              }
+            },
+            {
+              "name": {
+                "value": "closet"
+              }
+            },
+            {
+              "name": {
+                "value": "pillow"
+              }
+            },
+            {
+              "name": {
+                "value": "bed"
+              }
+            },
+            {
+              "name": {
+                "value": "drawer",
+                "synonyms": [
+                  "drawers"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "desk"
+              }
+            }
+          ],
+          "name": "StillObjects"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "down",
+                "synonyms": [
+                  "ground",
+                  "floor"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "up",
+                "synonyms": [
+                  "ceiling"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "west",
+                "synonyms": [
+                  "left"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "east",
+                "synonyms": [
+                  "right"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "south",
+                "synonyms": [
+                  "behind",
+                  "back"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "north",
+                "synonyms": [
+                  "ahead",
+                  "front",
+                  "in front of me"
+                ]
+              }
+            }
+          ],
+          "name": "Orientation"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "player",
+                "synonyms": [
+                  "mp3",
+                  "mp3 player"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "paper"
+              }
+            },
+            {
+              "name": {
+                "value": "note"
+              }
+            },
+            {
+              "name": {
+                "value": "poison",
+                "synonyms": [
+                  "bottle of poison"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "golden key"
+              }
+            },
+            {
+              "name": {
+                "value": "card"
+              }
+            },
+            {
+              "name": {
+                "value": "cat"
+              }
+            },
+            {
+              "name": {
+                "value": "car keys"
+              }
+            },
+            {
+              "name": {
+                "value": "garage control"
+              }
+            },
+            {
+              "name": {
+                "value": "bone scan"
+              }
+            },
+            {
+              "name": {
+                "value": "photo"
+              }
+            },
+            {
+              "name": {
+                "value": "bowl"
+              }
+            },
+            {
+              "name": {
+                "value": "toy mouse",
+                "synonyms": [
+                  "mouse",
+                  "rat"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "rubbing alcohol",
+                "synonyms": [
+                  "alcohol"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "screwdriver"
+              }
+            },
+            {
+              "name": {
+                "value": "toilet paper"
+              }
+            },
+            {
+              "name": {
+                "value": "ball of wool",
+                "synonyms": [
+                  "wool"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "letter"
+              }
+            },
+            {
+              "name": {
+                "value": "chair"
+              }
+            },
+            {
+              "name": {
+                "value": "key"
+              }
+            },
+            {
+              "name": {
+                "value": "cat food",
+                "synonyms": [
+                  "food"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "batteries"
+              }
+            },
+            {
+              "name": {
+                "value": "flashlight"
+              }
+            },
+            {
+              "name": {
+                "value": "hammer"
+              }
+            }
+          ],
+          "name": "Objects"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "hall"
+              }
+            },
+            {
+              "name": {
+                "value": "secret room"
+              }
+            },
+            {
+              "name": {
+                "value": "kitchen"
+              }
+            },
+            {
+              "name": {
+                "value": "basement",
+                "synonyms": [
+                  "garage",
+                  "parking"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "living room"
+              }
+            },
+            {
+              "name": {
+                "value": "courtyard",
+                "synonyms": [
+                  "yard"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "bathroom",
+                "synonyms": [
+                  "toilet"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "washing room"
+              }
+            },
+            {
+              "name": {
+                "value": "corridor"
+              }
+            },
+            {
+              "name": {
+                "value": "bedroom",
+                "synonyms": [
+                  "room"
+                ]
+              }
+            }
+          ],
+          "name": "Places"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "fire"
+              }
+            },
+            {
+              "name": {
+                "value": "air"
+              }
+            },
+            {
+              "name": {
+                "value": "water"
+              }
+            },
+            {
+              "name": {
+                "value": "earth"
+              }
+            }
+          ],
+          "name": "Symbol"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "Walt Whitman",
+                "synonyms": [
+                  "Whitman"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Thoreau",
+                "synonyms": [
+                  "Henry David Thoreau"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Lorca",
+                "synonyms": [
+                  "Federico García Lorca"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Virginia Woolf"
+              }
+            }
+          ],
+          "name": "Author"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "cat food",
+                "synonyms": [
+                  "food"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "toy mouse",
+                "synonyms": [
+                  "mouse",
+                  "rat"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "ball of wool",
+                "synonyms": [
+                  "wool"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "bowl"
+              }
+            }
+          ],
+          "name": "CatObjects"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "spill",
+                "synonyms": [
+                  "spill it"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "drink",
+                "synonyms": [
+                  "drink it"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "throw",
+                "synonyms": [
+                  "throw it"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "squeeze",
+                "synonyms": [
+                  "squeeze it"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "play",
+                "synonyms": [
+                  "play it"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "eat",
+                "synonyms": [
+                  "eat it"
+                ]
+              }
+            }
+          ],
+          "name": "Choose"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "toy mouse",
+                "synonyms": [
+                  "rat",
+                  "mouse"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "bowl"
+              }
+            },
+            {
+              "name": {
+                "value": "poison",
+                "synonyms": [
+                  "bottle of poison"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "ball of wool",
+                "synonyms": [
+                  "wool"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "cat food",
+                "synonyms": [
+                  "food"
+                ]
+              }
+            }
+          ],
+          "name": "ObjectsChoose"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "long",
+                "synonyms": [
+                  "long help"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "short",
+                "synonyms": [
+                  "short help"
+                ]
+              }
+            }
+          ],
+          "name": "HelpType"
+        }
+      ],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    },
+    "dialog": {
+      "intents": [
+        {
+          "name": "TakeIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.260898693788.1407483942142"
+              }
+            }
+          ]
+        },
+        {
+          "name": "ReleaseIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "object",
+              "type": "Objects",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.54152086980.1404991541025"
+              }
+            }
+          ]
+        },
+        {
+          "name": "NewGameIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.817848171354.764104931803"
+              }
+            }
+          ]
+        },
+        {
+          "name": "HelpIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "help",
+              "type": "HelpType",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.149684824581.876298226266"
+              }
+            }
+          ]
+        },
+        {
+          "name": "ChangeNameIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "name",
+              "type": "AMAZON.SearchQuery",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.705600836231.750318878549"
+              }
+            }
+          ]
+        }
+      ],
+      "delegationStrategy": "ALWAYS"
+    },
+    "prompts": [
+      {
+        "id": "Elicit.Slot.54152086980.1404991541025",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "What do you want to drop?"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.260898693788.1407483942142",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "What do you want to take?"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.817848171354.764104931803",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Tell me your name"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.149684824581.876298226266",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Do you want the long or the short help?"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.705600836231.750318878549",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Tell me your new name"
+          },
+          {
+            "type": "PlainText",
+            "value": "What is your new name?"
+          }
+        ]
+      }
+    ]
+  },
+  "version": "7"
+}
